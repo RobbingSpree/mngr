@@ -10,5 +10,6 @@ if hires_board.target_list == hires_board.list {
 	draw_set_color(c_white);
 	draw_set_halign(-1);
 	draw_set_font(-1);
-	draw_set_valign(-1)
+	draw_set_valign(-1);
+	
 }

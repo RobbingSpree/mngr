@@ -12,7 +12,7 @@ if index != 0 {
 	depth = -10;
 }
 target_list = hires_board.list;
-str = "Avalibe Units";
+str = "Available Units";
 
 if index == 1 {
 	target_list = roster.list;
