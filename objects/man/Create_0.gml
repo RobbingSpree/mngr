@@ -1,3 +1,0 @@
-/// @description 
-
-pos = 0;

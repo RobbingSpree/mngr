@@ -1,9 +1,0 @@
-name
-class
-level
-exp
-enthusiasm
-brilliance
-cunning
-wonderlust
-skin
