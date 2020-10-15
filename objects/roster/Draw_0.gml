@@ -18,11 +18,12 @@ var yy = 450;
 if room == quest_board {
 	var scale_h = 0.75;
 	var scale_w = 0.75;
-	draw_sprite_ext(SmallBackground2,0,xx,yy,scale_w,scale_h,0,c_white,1);
+	
 	draw_set_color(c_black);
 	draw_set_font(Menu_font);
-	xx+=30;
 	if board.target_list == board.active {
+		draw_sprite_ext(SmallBackground2,0,xx,yy,scale_w,scale_h,0,c_white,1);
+		xx+=30;
 		if ds_list_size(board.active) > 0 {
 		var str = ds_list_find_value(board.target_list,focus).assigned;
 		draw_text(xx,yy+20,str);
@@ -33,11 +34,20 @@ if room == quest_board {
 	
 	//draw potential submit
 	if board.target_list == board.waiting {
+		draw_sprite_ext(SmallBackground2,0,xx,yy,scale_w,scale_h,0,c_white,1);
+		xx+=30;
 		if ds_list_size(board.waiting) > 0 {
-		var str = ds_list_find_value(list,focus);
-		draw_text(xx,yy+20,str);
+			if ds_list_size(list) > 0 {
+				var str = ds_list_find_value(list,focus);
+				draw_text(xx,yy+20,str);
+			} else {
+				draw_text(xx,yy+20,"No one is avaliable to assign");
+			}
 		} else {
-			draw_text(xx,yy+20,"No one to assign to these lack of quests");
+			if ds_list_size(list) > 0
+				draw_text(xx,yy+20,"No one to assign to these lack of quests");
+			else 
+				draw_text(xx,yy+20,"No one is avaliable");
 		}
 	}
 

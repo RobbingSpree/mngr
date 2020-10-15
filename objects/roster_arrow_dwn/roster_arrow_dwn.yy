@@ -23,6 +23,7 @@
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"roster_arrow_dwn","path":"objects/roster_arrow_dwn/roster_arrow_dwn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":7,"eventType":6,"collisionObjectId":null,"parent":{"name":"roster_arrow_dwn","path":"objects/roster_arrow_dwn/roster_arrow_dwn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"roster_arrow_dwn","path":"objects/roster_arrow_dwn/roster_arrow_dwn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
