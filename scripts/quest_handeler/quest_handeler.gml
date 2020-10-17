@@ -16,9 +16,14 @@ function quest() constructor{
 		//refrence circle
 		assigned = ds_list_find_value(roster.list,roster.focus);
 		ds_list_find_value(roster.list,roster.focus).assigned_to = self;
+		var limit = index;
 		//remove from old list
 		index = board.focus;
 		ds_list_delete(board.waiting,board.focus);
+		//update rest of list
+		for(var i=limit; i<board.total_members; i++) {
+			ds_list_find_value(board.waiting,i).index-=1;
+		}
 	}
 	
 	progress = function () {

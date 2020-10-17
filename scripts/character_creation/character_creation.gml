@@ -10,16 +10,20 @@ function member(_id) constructor{
 	status = "Ready";
 	assigned_to = noone;
 	
-	hire_me = function () {
+	static hire_me = function () {
 		var new_spot = ds_list_size(roster.list);
 		roster.total_members++;
 		hires_board.total_members--;
 		ds_list_add(roster.list,self);
 		ds_list_delete(hires_board.list,index);
+		var limit = index;
+		for(var i=limit; i<hires_board.total_members; i++) {
+			ds_list_find_value(hires_board.list,i).index-=1;
+		}
 		index = new_spot;
 	}
 	
-	toString = function () {
+	static toString = function () {
 		return "Details for: " +name + " member ID: " + string(mem_id) + " located in the list at pos " + string(index);
 	}
 }
