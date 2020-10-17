@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "TickBox",
+    "path": "sprites/TickBox/TickBox.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -18,9 +21,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"day_end","path":"objects/day_end/day_end.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"day_end","path":"objects/day_end/day_end.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":4,"eventType":7,"collisionObjectId":null,"parent":{"name":"day_end","path":"objects/day_end/day_end.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"end_report","path":"objects/end_report/end_report.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":7,"eventType":6,"collisionObjectId":null,"parent":{"name":"end_report","path":"objects/end_report/end_report.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -29,7 +31,7 @@
     "path": "folders/Objects/Day end stuff.yy",
   },
   "resourceVersion": "1.0",
-  "name": "day_end",
+  "name": "end_report",
   "tags": [],
   "resourceType": "GMObject",
 }

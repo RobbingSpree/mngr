@@ -1,8 +1,8 @@
 
 
-active = ds_list_create();
-waiting = ds_list_create();
-complete = ds_list_create();
+active = ds_list_create(); //quests activly worked on
+waiting = ds_list_create(); //quests awaiting a hero
+complete = ds_list_create(); //compleated quests
 
 var temp  = new quest();
 temp = new quest();
