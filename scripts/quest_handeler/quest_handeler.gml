@@ -26,13 +26,9 @@ function quest() constructor{
 		}
 	}
 	
-	progress = function () {
-		progress ++;
-		if progress >= steps {
-			ds_list_add(board.complete,self);
-			assigned = noone;
-			ds_list_delete(board.active,index);
-		}
+	progress_me = function () {
+		//replace with skill check later
+		self.progress += 50;
 	}
 	
 	toString = function () {
