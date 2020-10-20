@@ -73,3 +73,8 @@ function quest_name() {
 	}
 	return str;
 }
+
+function quest_progress(target) {
+	var hero = target.assigned;
+	 
+}

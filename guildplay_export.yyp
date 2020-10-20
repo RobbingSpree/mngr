@@ -9,6 +9,7 @@
     {"id":{"name":"TickIcon","path":"sprites/TickIcon/TickIcon.yy",},"order":17,},
     {"id":{"name":"menu_tags","path":"fonts/menu_tags/menu_tags.yy",},"order":4,},
     {"id":{"name":"roster","path":"objects/roster/roster.yy",},"order":3,},
+    {"id":{"name":"foreach","path":"scripts/foreach/foreach.yy",},"order":4,},
     {"id":{"name":"GreenButton","path":"sprites/GreenButton/GreenButton.yy",},"order":7,},
     {"id":{"name":"DialogueBox","path":"sprites/DialogueBox/DialogueBox.yy",},"order":11,},
     {"id":{"name":"arrow_spr","path":"sprites/arrow_spr/arrow_spr.yy",},"order":1,},
