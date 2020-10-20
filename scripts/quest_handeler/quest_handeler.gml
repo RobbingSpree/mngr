@@ -38,6 +38,24 @@ function quest() constructor{
 	toString = function () {
 		return "Details for: " + name;
 	}
+	
+	complete_me = function () {
+		//add to new list
+		ds_list_add(board.complete,self);
+		var limit = index;
+		index = ds_list_size(board.complete);
+		//remove from old list
+		ds_list_delete(board.active,limit);
+		//update old list indexes
+		var size = ds_list_size(board.active);
+		for(var i=limit; i<size; i++) {
+			ds_list_find_value(board.active,i).index-=1;
+		}
+		assigned.assigned_to = noone;
+		assigned.status = "Ready";
+		assigned = noone;
+	
+	}
 }
 
 function quest_name() {
