@@ -13,15 +13,17 @@ function quest() constructor{
 	assigned = function () {
 		//add to new list
 		ds_list_add(board.active,self); 
-		//refrence circle
+		//assign hero
 		assigned = ds_list_find_value(roster.list,roster.focus);
-		ds_list_find_value(roster.list,roster.focus).assigned_to = self;
-		var limit = index;
+		assigned.assigned_to = self;
+		assigned.assign_to_quest();
 		//remove from old list
+		var limit = index;
 		index = board.focus;
 		ds_list_delete(board.waiting,board.focus);
 		//update rest of list
-		for(var i=limit; i<board.total_members; i++) {
+		var size = ds_list_size(board.waiting);
+		for(var i=limit; i<size; i++) {
 			ds_list_find_value(board.waiting,i).index-=1;
 		}
 	}

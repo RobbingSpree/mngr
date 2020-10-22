@@ -2,6 +2,7 @@
 
 list = ds_list_create();
 total_members = 0;
+avaliable = 0;
 focus = 0;
 
 /*

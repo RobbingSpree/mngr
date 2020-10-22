@@ -2,7 +2,7 @@
 function member(_id) constructor{
 	static count = 0;
 	count ++;
-	name = make_name();
+	my_name = make_name();
 	mem_id = _id;
 	index = ds_list_size(hires_board.list);
 	hires_board.total_members++;
@@ -13,6 +13,7 @@ function member(_id) constructor{
 	static hire_me = function () {
 		var new_spot = ds_list_size(roster.list);
 		roster.total_members++;
+		roster.avaliable ++;
 		hires_board.total_members--;
 		ds_list_add(roster.list,self);
 		ds_list_delete(hires_board.list,index);
@@ -23,8 +24,13 @@ function member(_id) constructor{
 		index = new_spot;
 	}
 	
+	static assign_to_quest = function () {
+		roster.avaliable --;
+		status = "On A Job";
+	}
+	
 	static toString = function () {
-		return "Details for: " +name + " member ID: " + string(mem_id) + " located in the list at pos " + string(index);
+		return "Details for: " +my_name + " member ID: " + string(mem_id) + " located in the list at pos " + string(index);
 	}
 }
 

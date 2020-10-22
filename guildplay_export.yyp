@@ -5,6 +5,7 @@
     {"id":{"name":"report_scripts","path":"scripts/report_scripts/report_scripts.yy",},"order":3,},
     {"id":{"name":"TickBox","path":"sprites/TickBox/TickBox.yy",},"order":8,},
     {"id":{"name":"character_creation","path":"scripts/character_creation/character_creation.yy",},"order":0,},
+    {"id":{"name":"assign_button","path":"objects/assign_button/assign_button.yy",},"order":7,},
     {"id":{"name":"hire_arrow_up","path":"objects/hire_arrow_up/hire_arrow_up.yy",},"order":4,},
     {"id":{"name":"TickIcon","path":"sprites/TickIcon/TickIcon.yy",},"order":17,},
     {"id":{"name":"menu_tags","path":"fonts/menu_tags/menu_tags.yy",},"order":4,},
