@@ -1,5 +1,5 @@
 
-if roster.avaliable > 0 && board.target_list == board.waiting {
+if roster.avaliable > 0 && board.target_list == board.waiting && ds_list_find_value(roster.list,roster.focus).status == "Ready" {
 	draw_self();
 
 	draw_set_font(menu_tags);

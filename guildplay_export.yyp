@@ -1,7 +1,7 @@
 {
   "resources": [
     {"id":{"name":"SaveSlot","path":"sprites/SaveSlot/SaveSlot.yy",},"order":14,},
-    {"id":{"name":"quest_handeler","path":"scripts/quest_handeler/quest_handeler.yy",},"order":1,},
+    {"id":{"name":"quest_handler","path":"scripts/quest_handler/quest_handler.yy",},"order":1,},
     {"id":{"name":"report_scripts","path":"scripts/report_scripts/report_scripts.yy",},"order":3,},
     {"id":{"name":"TickBox","path":"sprites/TickBox/TickBox.yy",},"order":8,},
     {"id":{"name":"character_creation","path":"scripts/character_creation/character_creation.yy",},"order":0,},

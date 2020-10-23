@@ -24,6 +24,7 @@ if room == roster_book {
 	}
 	
 	//debug
+	/*
 	yy+= 100;
 	if ds_list_size(roster.list) > 0 {
 		for (var i=0; i<ds_list_size(roster.list); i++){
@@ -34,6 +35,7 @@ if room == roster_book {
 		draw_text(xx,yy+20,"Empty Guild");
 	}
 	//debug end
+	*/
 	
 	draw_set_color(c_white);
 	draw_set_font(-1);

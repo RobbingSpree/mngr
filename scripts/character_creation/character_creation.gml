@@ -7,8 +7,15 @@ function member(_id) constructor{
 	index = ds_list_size(hires_board.list);
 	hires_board.total_members++;
 	ds_list_add(hires_board.list,self);
-	status = "Ready";
+	status = "Hireable";
 	assigned_to = noone;
+	level = 1;
+	xp = 0;
+	enthusiasm	= 1;
+	brilliance	= 1;
+	cunning		= 1;
+	wanderlust	= 1;
+	roll_skills(self);
 	
 	static hire_me = function () {
 		var new_spot = ds_list_size(roster.list);
@@ -22,6 +29,7 @@ function member(_id) constructor{
 			ds_list_find_value(hires_board.list,i).index-=1;
 		}
 		index = new_spot;
+		status = "Ready";
 	}
 	
 	static assign_to_quest = function () {
@@ -30,8 +38,39 @@ function member(_id) constructor{
 	}
 	
 	static toString = function () {
-		return "Details for: " +my_name + " member ID: " + string(mem_id) + " located in the list at pos " + string(index);
+		var str = "";
+		str = "Name: "+ my_name + "\nStatus: " + status + "\nLevel: "+ string(level) +"\nBrilliance: " +string(brilliance) +"\nEnthusiasm: "+string(enthusiasm)+"\nCunning: "+string(cunning)+"\nWanderlust: "+string(wanderlust)+"\nExp to next level: "+string(100-xp);
+		return str;
+		//"\nMember ID: " + string(mem_id) +
 	}
+	
+	static short_desc = function () {
+		return "Name: "+ my_name + "\nStatus: " + status + "\nLevel: "+ string(level);
+	}
+	
+	static just_stats = function () {
+		return "\nBrilliance: " +string(brilliance) +"\nEnthusiasm: "+string(enthusiasm)+"\nCunning: "+string(cunning)+"\nWanderlust: "+string(wanderlust)
+	}
+
+	
+}
+
+function roll_skills(target) {
+	var skill_pool = 6;
+	var d = 2;
+	var chng = irandom(d);
+	target.enthusiasm += chng;
+	skill_pool -= chng;
+	chng = irandom(d);
+	target.brilliance += chng;
+	skill_pool -= chng;
+	chng = irandom(d);
+	target.cunning += chng;
+	skill_pool -= chng;
+	chng = irandom(d);
+	if skill_pool < chng
+		chng = chng-skill_pool;
+	target.wanderlust += chng;
 }
 
 function make_name() {

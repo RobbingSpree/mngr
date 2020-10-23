@@ -2,11 +2,11 @@
 function quest() constructor{
 	static count = 0;
 	count ++;
-	name = quest_name();
+	my_name = quest_name();
 	steps = irandom_range(2,5);
 	progress = 0;
 	index = count;
-	assigned = noone;
+	assigned_to = noone;
 	
 	ds_list_add(board.waiting,self);
 	
@@ -14,9 +14,9 @@ function quest() constructor{
 		//add to new list
 		ds_list_add(board.active,self); 
 		//assign hero
-		assigned = ds_list_find_value(roster.list,roster.focus);
-		assigned.assigned_to = self;
-		assigned.assign_to_quest();
+		assigned_to = ds_list_find_value(roster.list,roster.focus);
+		assigned_to.assigned_to = self;
+		assigned_to.assign_to_quest();
 		//remove from old list
 		var limit = index;
 		index = board.focus;
@@ -34,8 +34,13 @@ function quest() constructor{
 	}
 	
 	toString = function () {
-		return "Details for: " + name;
+		var str = "";
+		str = my_name + "\n"+string(progress)+"% complete.\n";
+		if assigned_to != noone
+			str += string(assigned_to.my_name)+" working on this job.";
+		return str;
 	}
+	
 	
 	complete_me = function () {
 		//add to new list

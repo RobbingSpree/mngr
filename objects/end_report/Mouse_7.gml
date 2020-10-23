@@ -6,4 +6,5 @@ if day_end.index == day_end.last {
 		if target.progress >= 100
 			target.complete_me();
 	}
+	room_goto(quest_board);
 }
