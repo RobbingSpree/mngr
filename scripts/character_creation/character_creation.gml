@@ -55,6 +55,27 @@ function member(_id) constructor{
 	
 }
 
+function roster_next_day() {
+	//add new people to the hire pool
+	var new_h_num = irandom(2)+1;
+	var temp = noone;
+	for (var i=0; i<new_h_num; i++) {
+		temp = new member(hires_board.total_members);
+	}
+	//remove people from the hire pool
+	var rem_from_hire = irandom(3);
+	var heads = 0;
+	var i=0;
+	while rem_from_hire !=0 {
+		if heads = irandom(1) {
+			ds_list_delete(hires_board.list,i);
+		}
+		i++
+		if i == ds_list_size(hires_board.total_members) 
+			i=0;
+	}
+}
+
 function roll_skills(target) {
 	var skill_pool = 6;
 	var d = 2;

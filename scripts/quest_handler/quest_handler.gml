@@ -7,6 +7,8 @@ function quest() constructor{
 	progress = 0;
 	index = count;
 	assigned_to = noone;
+	last_check = "Success";
+	ttl = irandom_range(5,9);
 	
 	ds_list_add(board.waiting,self);
 	
@@ -30,7 +32,8 @@ function quest() constructor{
 	
 	progress_me = function () {
 		//replace with skill check later
-		self.progress += 50;
+		progress += 100/steps;
+		last_check = "Success";
 	}
 	
 	toString = function () {
@@ -98,4 +101,20 @@ function quest_name() {
 function quest_progress(target) {
 	var hero = target.assigned;
 	 
+}
+
+function quest_next_day() {
+	with board {
+		var size = ds_list_size(waiting);
+		for (var i=0; i<size; i++) {
+			var target = ds_list_find_value(waiting,i);
+			target.ttl--;
+			if target.ttl == 0 {
+				ds_list_delete(waiting,i);
+				i--;
+				size--;
+			}
+		}
+		
+	}
 }

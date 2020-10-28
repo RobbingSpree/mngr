@@ -6,5 +6,10 @@ if room == day_end_room {
 	for (var i=0; i<last; i++) {
 		var temp = ds_list_find_value(board.active,i);
 		temp.progress_me();
+		report[i] = get_update(i);
+		report[i] += "\n" + faff_about(i);
+		if temp.progress >= 100
+			report[i] += "\n" + "The quest was compleated successfully";
 	}
+	
 }
