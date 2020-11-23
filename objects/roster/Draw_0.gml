@@ -25,7 +25,7 @@ if room == quest_board {
 		draw_sprite_ext(SmallBackground2,0,xx,yy,scale_w,scale_h,0,c_white,1);
 		xx+=30;
 		if ds_list_size(board.active) > 0 {
-		var str = ds_list_find_value(list,focus).short_desc;
+		var str = ds_list_find_value(list,focus).short_desc();
 		draw_text(xx,yy+20,str);
 		//draw_text(xx,yy+60,board.focus);
 		//draw_text(xx,yy+100,string(str.my_name));
