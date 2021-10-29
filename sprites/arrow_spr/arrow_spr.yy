@@ -71,9 +71,10 @@
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"c1fa6bf1-2a71-42e9-a4cc-68113b0fc0cc","tags":[],"resourceType":"GMImageLayer",},
   ],
+  "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "UI objects",
+    "path": "folders/Sprites/UI objects.yy",
   },
   "resourceVersion": "1.0",
   "name": "arrow_spr",

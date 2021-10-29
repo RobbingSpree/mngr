@@ -67,9 +67,10 @@
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"78369dc2-8fb1-4610-8ac4-4f53c4d2851e","tags":[],"resourceType":"GMImageLayer",},
   ],
+  "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "UI objects",
+    "path": "folders/Sprites/UI objects.yy",
   },
   "resourceVersion": "1.0",
   "name": "DialogueBox",

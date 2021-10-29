@@ -71,9 +71,10 @@
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"e596b405-a80f-4063-a87b-1768e0f50bf5","tags":[],"resourceType":"GMImageLayer",},
   ],
+  "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "UI objects",
+    "path": "folders/Sprites/UI objects.yy",
   },
   "resourceVersion": "1.0",
   "name": "RedButton",

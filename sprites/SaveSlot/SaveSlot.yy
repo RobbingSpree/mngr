@@ -67,9 +67,10 @@
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7f709965-08fa-4648-980e-e53a786f1f86","tags":[],"resourceType":"GMImageLayer",},
   ],
+  "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "UI objects",
+    "path": "folders/Sprites/UI objects.yy",
   },
   "resourceVersion": "1.0",
   "name": "SaveSlot",
