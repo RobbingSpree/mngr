@@ -12,7 +12,6 @@
     {"id":{"name":"TickIcon","path":"sprites/TickIcon/TickIcon.yy",},"order":14,},
     {"id":{"name":"menu_tags","path":"fonts/menu_tags/menu_tags.yy",},"order":4,},
     {"id":{"name":"roster","path":"objects/roster/roster.yy",},"order":3,},
-    {"id":{"name":"focus_dots","path":"objects/focus_dots/focus_dots.yy",},"order":10,},
     {"id":{"name":"foreach","path":"scripts/foreach/foreach.yy",},"order":4,},
     {"id":{"name":"GreenButton","path":"sprites/GreenButton/GreenButton.yy",},"order":5,},
     {"id":{"name":"DialogueBox","path":"sprites/DialogueBox/DialogueBox.yy",},"order":3,},

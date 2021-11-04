@@ -1,11 +1,4 @@
-//debug
-/*
-for (var i=0; i<height; i++) {
-	var str = ds_list_find_value(target_list,i);
-	draw_text(20,120+i*20,str);
-}
-draw_text(0,100,"Quests:");
-*/
+
 //avaliable quests
 var xx = 20;
 var yy = 120;
@@ -47,3 +40,13 @@ if room == quest_board {
 }
 draw_set_color(c_white);
 draw_set_font(-1);
+
+//draw scroll
+var wid = ds_list_size(target_list);
+var xx = 960 - wid/2*38;
+for (var i=0; i < wid; i++) {
+	var on = 0;
+	if focus == i
+		on = 1;
+	draw_sprite(list_dot_spr,on,xx+i*38,100);
+}
