@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-if day_end.index == day_end.last-1 {
+if day_end.index >= day_end.last-1 {
 	draw_self();
 	draw_set_color(c_black);
 	draw_set_font(menu_tags);

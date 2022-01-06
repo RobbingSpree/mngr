@@ -1,3 +1,2 @@
-/// @description Insert description here
-// You can write your code in this editor
+make_db();
 room_goto(quest_board);

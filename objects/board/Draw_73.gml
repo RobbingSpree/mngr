@@ -41,12 +41,3 @@ if room == quest_board {
 draw_set_color(c_white);
 draw_set_font(-1);
 
-//draw scroll
-var wid = ds_list_size(target_list);
-var xx = 960 - wid/2*38;
-for (var i=0; i < wid; i++) {
-	var on = 0;
-	if focus == i
-		on = 1;
-	draw_sprite(list_dot_spr,on,xx+i*38,100);
-}

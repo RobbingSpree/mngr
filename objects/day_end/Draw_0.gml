@@ -18,3 +18,4 @@ draw_set_font(-1);
 draw_set_color(c_white);
 draw_set_halign(-1);
 
+draw_text(20,20,string(index) +" of " + string(last));

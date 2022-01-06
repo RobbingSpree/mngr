@@ -1,6 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
-
 //debug
 /*
 var height = ds_list_size(list);
@@ -27,8 +24,6 @@ if room == quest_board {
 		if ds_list_size(board.active) > 0 {
 		var str = ds_list_find_value(list,focus).short_desc();
 		draw_text(xx,yy+20,str);
-		//draw_text(xx,yy+60,board.focus);
-		//draw_text(xx,yy+100,string(str.my_name));
 		} else {
 			draw_text(xx,yy+20,"No one assigned to these lack of quests");
  		}
@@ -45,6 +40,8 @@ if room == quest_board {
 				var str2 = ds_list_find_value(list,focus).just_stats();
 				draw_text(xx,yy+20,str);
 				draw_text(xx+200,yy+20,str2);
+				if  ds_list_find_value(list,focus).status == "On A Job"
+					draw_sprite(q_ass_spr,0,525,600);
 			} else {
 				draw_text(xx,yy+20,"No one is avaliable to assign");
 			}
@@ -55,7 +52,7 @@ if room == quest_board {
 				draw_text(xx,yy+20,"No one is avaliable");
 		}
 	}
-
+	
 	//drawe nothing on compleated list
 	if board.target_list == board.complete {
 	

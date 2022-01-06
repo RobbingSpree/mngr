@@ -1,5 +1,5 @@
 
-if hires_board.target_list == hires_board.list {
+if hires_board.target_list == hires_board.list && ds_list_size(hires_board.list) > 0 {
 	draw_self();
 
 	draw_set_font(menu_tags);

@@ -17,16 +17,18 @@ function member(_id) constructor{
 	wanderlust	= 1;
 	roll_skills(self);
 	
-	static hire_me = function () {
+	static hire_me = function (flag) {
 		var new_spot = ds_list_size(roster.list);
 		roster.total_members++;
 		roster.avaliable ++;
-		hires_board.total_members--;
 		ds_list_add(roster.list,self);
-		ds_list_delete(hires_board.list,index);
-		var limit = index;
-		for(var i=limit; i<hires_board.total_members; i++) {
-			ds_list_find_value(hires_board.list,i).index-=1;
+		if flag == "hired" {
+			ds_list_delete(hires_board.list,index);
+			hires_board.total_members--;
+			var limit = index;
+			for(var i=limit; i<hires_board.total_members; i++) {
+				ds_list_find_value(hires_board.list,i).index-=1;
+			}
 		}
 		index = new_spot;
 		status = "Ready";
@@ -65,15 +67,16 @@ function roster_next_day() {
 	//remove people from the hire pool
 	var rem_from_hire = irandom(3);
 	var heads = 0;
-	var i=0;
-	while rem_from_hire !=0 {
-		if heads = irandom(1) {
-			ds_list_delete(hires_board.list,i);
+	if rem_from_hire > ds_list_size(hires_board.list)
+		rem_from_hire = ds_list_size(hires_board.list)-1;
+	if ds_list_size(hires_board.list) > 0
+		for(var i=0; i<rem_from_hire; i++) {
+			if heads = irandom(1) {
+				ds_list_delete(hires_board.list,irandom(ds_list_size(hires_board.list)));
+			}
+			if ds_list_size(hires_board.list) == 0
+				break;
 		}
-		i++
-		if i == ds_list_size(hires_board.total_members) 
-			i=0;
-	}
 }
 
 function roll_skills(target) {

@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"0e5c1fcf-e7e9-4080-8b1d-6b0e4d16e1a7","path":"sprites/DialogueTitle/DialogueTitle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0e5c1fcf-e7e9-4080-8b1d-6b0e4d16e1a7","path":"sprites/DialogueTitle/DialogueTitle.yy",},"LayerId":{"name":"57bf574a-6ea9-44ad-aaed-9dedc9367567","path":"sprites/DialogueTitle/DialogueTitle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"DialogueTitle","path":"sprites/DialogueTitle/DialogueTitle.yy",},"resourceVersion":"1.0","name":"0e5c1fcf-e7e9-4080-8b1d-6b0e4d16e1a7","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"aeae5459-7d69-4a48-a695-8e44fc7a3dc5","path":"sprites/GreenButtonLong/GreenButtonLong.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"aeae5459-7d69-4a48-a695-8e44fc7a3dc5","path":"sprites/GreenButtonLong/GreenButtonLong.yy",},"LayerId":{"name":"39ae527a-3ffb-4bb3-8205-6dce05c30723","path":"sprites/GreenButtonLong/GreenButtonLong.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"GreenButtonLong","path":"sprites/GreenButtonLong/GreenButtonLong.yy",},"resourceVersion":"1.0","name":"aeae5459-7d69-4a48-a695-8e44fc7a3dc5","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"DialogueTitle","path":"sprites/DialogueTitle/DialogueTitle.yy",},
+    "spriteId": {"name":"GreenButtonLong","path":"sprites/GreenButtonLong/GreenButtonLong.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"57834ef7-c3f8-4f26-8af9-b51ad459a106","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0e5c1fcf-e7e9-4080-8b1d-6b0e4d16e1a7","path":"sprites/DialogueTitle/DialogueTitle.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4621bf5a-b2af-47dc-b66a-a599031ca3a1","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"aeae5459-7d69-4a48-a695-8e44fc7a3dc5","path":"sprites/GreenButtonLong/GreenButtonLong.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"DialogueTitle","path":"sprites/DialogueTitle/DialogueTitle.yy",},
+    "parent": {"name":"GreenButtonLong","path":"sprites/GreenButtonLong/GreenButtonLong.yy",},
     "resourceVersion": "1.3",
-    "name": "DialogueTitle",
+    "name": "GreenButtonLong",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"57bf574a-6ea9-44ad-aaed-9dedc9367567","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"39ae527a-3ffb-4bb3-8205-6dce05c30723","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites/UI objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "DialogueTitle",
+  "name": "GreenButtonLong",
   "tags": [],
   "resourceType": "GMSprite",
 }

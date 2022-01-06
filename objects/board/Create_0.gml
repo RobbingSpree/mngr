@@ -6,6 +6,8 @@ complete = ds_list_create(); //compleated quests
 
 var temp  = new quest();
 temp = new quest();
+temp = new quest();
+temp = new quest();
 
 focus = 0;
 target_list = waiting;
