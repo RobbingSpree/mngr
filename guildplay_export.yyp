@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"ButtonHighlight","path":"sprites/ButtonHighlight/ButtonHighlight.yy",},"order":20,},
     {"id":{"name":"SaveSlot","path":"sprites/SaveSlot/SaveSlot.yy",},"order":7,},
     {"id":{"name":"quest_handler","path":"scripts/quest_handler/quest_handler.yy",},"order":1,},
     {"id":{"name":"report_scripts","path":"scripts/report_scripts/report_scripts.yy",},"order":3,},
@@ -46,6 +47,7 @@
     {"id":{"name":"tab","path":"objects/tab/tab.yy",},"order":6,},
     {"id":{"name":"tab_spr","path":"sprites/tab_spr/tab_spr.yy",},"order":12,},
     {"id":{"name":"day_end_button","path":"objects/day_end_button/day_end_button.yy",},"order":3,},
+    {"id":{"name":"pin_spr","path":"sprites/pin_spr/pin_spr.yy",},"order":5,},
     {"id":{"name":"GreenButtonLong","path":"sprites/GreenButtonLong/GreenButtonLong.yy",},"order":18,},
     {"id":{"name":"supply_lines","path":"rooms/supply_lines/supply_lines.yy",},"order":2,},
     {"id":{"name":"BlueTitle","path":"sprites/BlueTitle/BlueTitle.yy",},"order":2,},
