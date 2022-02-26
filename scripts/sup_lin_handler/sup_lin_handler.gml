@@ -15,6 +15,41 @@ function route(_id) constructor{
 	}
 }
 
+function town(_id) constructor{
+	nam = name_location(_id);
+	peep = [];
+	pop = 10;
+	peep = name_the_peeps(pop);
+	xp = [];
+	for (var i=0; i<pop; i++) {
+		xp[i] = 0;
+	}
+}
+
+function dungeon(_id) constructor{
+	nam = "Dungeon " +string(_id);
+	difficulty = 1;
+	progress = 0;
+}
+
+function name_the_peeps(_pop) {
+	var peeps=[];
+	for (var i=0; i<_pop; i++;) {
+		var pn = "";
+		var index = irandom(30);
+		switch (index) {
+			case 0:  pn = "NPC1";		break;
+			case 1:  pn = "NPC2";		break;
+			case 2:  pn = "NPC3";		break;
+			case 3:  pn = "NPC4";		break;
+			case 4:  pn = "NPC4";		break;
+			default: pn = "NPC"+string(index);
+		}
+		peeps[i] = pn;
+	}
+	return peeps;
+}
+
 function name_location(index) {
 	switch (index) {
 		case 0:  return "Pittshole";		break;

@@ -8,6 +8,7 @@ function quest() constructor{
 	index = count;
 	assigned_to = noone;
 	last_check = "Success";
+	raised_by = irandom(10); //should have this pull the population of the town it was raised in and weight it to be for important people
 	ttl = irandom_range(5,9);
 	
 	ds_list_add(board.waiting,self);
