@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"ButtonHighlight","path":"sprites/ButtonHighlight/ButtonHighlight.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "ButtonHighlight",
     "tags": [],
     "resourceType": "GMSequence",

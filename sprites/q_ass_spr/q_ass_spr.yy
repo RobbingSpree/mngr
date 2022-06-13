@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"q_ass_spr","path":"sprites/q_ass_spr/q_ass_spr.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "q_ass_spr",
     "tags": [],
     "resourceType": "GMSequence",

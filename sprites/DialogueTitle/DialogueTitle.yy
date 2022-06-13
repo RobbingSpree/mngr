@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"DialogueTitle","path":"sprites/DialogueTitle/DialogueTitle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "DialogueTitle",
     "tags": [],
     "resourceType": "GMSequence",
