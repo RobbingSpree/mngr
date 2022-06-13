@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"BlueButton","path":"sprites/BlueButton/BlueButton.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "BlueButton",
     "tags": [],
     "resourceType": "GMSequence",

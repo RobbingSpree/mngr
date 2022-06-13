@@ -25,10 +25,10 @@
   "gridY": 0,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"19addbc6-8487-4d62-be6c-61c87162e37d","path":"sprites/pin_spr/pin_spr.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"19addbc6-8487-4d62-be6c-61c87162e37d","path":"sprites/pin_spr/pin_spr.yy",},"LayerId":{"name":"0bc8ce23-c9ab-4a08-9d07-b12002f0765c","path":"sprites/pin_spr/pin_spr.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"19addbc6-8487-4d62-be6c-61c87162e37d","path":"sprites/pin_spr/pin_spr.yy",},"LayerId":{"name":"f83f5a13-33a4-4836-984f-d5581c99678e","path":"sprites/pin_spr/pin_spr.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"19addbc6-8487-4d62-be6c-61c87162e37d","path":"sprites/pin_spr/pin_spr.yy",},"LayerId":{"name":"c58e9a66-6706-45da-9d7a-b5755002820d","path":"sprites/pin_spr/pin_spr.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"19addbc6-8487-4d62-be6c-61c87162e37d","path":"sprites/pin_spr/pin_spr.yy",},"LayerId":{"name":"8c6a305a-6cbb-4fc9-aa83-308e6c4218d5","path":"sprites/pin_spr/pin_spr.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"19addbc6-8487-4d62-be6c-61c87162e37d","path":"sprites/pin_spr/pin_spr.yy",},"LayerId":{"name":"0bc8ce23-c9ab-4a08-9d07-b12002f0765c","path":"sprites/pin_spr/pin_spr.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"pin_spr","path":"sprites/pin_spr/pin_spr.yy",},"resourceVersion":"1.0","name":"19addbc6-8487-4d62-be6c-61c87162e37d","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
@@ -62,7 +62,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"pin_spr","path":"sprites/pin_spr/pin_spr.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "pin_spr",
     "tags": [],
     "resourceType": "GMSequence",

@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"tab_spr","path":"sprites/tab_spr/tab_spr.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "tab_spr",
     "tags": [],
     "resourceType": "GMSequence",
