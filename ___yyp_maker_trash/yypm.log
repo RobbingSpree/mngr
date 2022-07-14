@@ -1,0 +1,1017 @@
+You are using YYP Maker v1.1.2, released in 11-04-2021
+
+
+
+[14-07-2022 10:37:15] Initialized GameMaker Project: mngr.yyp
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/animcurves
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/datafiles
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/extensions
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/fonts
+[14-07-2022 10:37:15] Checking menu_tags
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/fonts/menu_tags
+[14-07-2022 10:37:15] Checking Menu_font
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/fonts/Menu_font
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/fonts/Menu_font
+[14-07-2022 10:37:15] Checking Menu_font.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/fonts/Menu_font/Menu_font.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/fonts/Menu_font/Menu_font.yy
+[14-07-2022 10:37:15] Par: "folders/Objects" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/fonts/Menu_font/Menu_font.yy"
+[14-07-2022 10:37:15] Found Font: Menu_font
+[14-07-2022 10:37:15] Checking Menu_font.png
+[14-07-2022 10:37:15] Checking Menu_font.old.yy
+[14-07-2022 10:37:15] Trash file: Menu_font.old.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Checking Menu_font.old.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/fonts/menu_tags
+[14-07-2022 10:37:15] Checking menu_tags.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/fonts/menu_tags/menu_tags.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/fonts/menu_tags/menu_tags.yy
+[14-07-2022 10:37:15] Par: "folders/Objects" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/fonts/menu_tags/menu_tags.yy"
+[14-07-2022 10:37:15] Found Font: menu_tags
+[14-07-2022 10:37:15] Checking menu_tags.png
+[14-07-2022 10:37:15] Checking menu_tags.old.yy
+[14-07-2022 10:37:15] Trash file: menu_tags.old.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Checking menu_tags.old.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/notes
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects
+[14-07-2022 10:37:15] Checking tab_hires
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/tab_hires
+[14-07-2022 10:37:15] Checking tab
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/tab
+[14-07-2022 10:37:15] Checking supply_arrow_up
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/supply_arrow_up
+[14-07-2022 10:37:15] Checking supply_arrow_dwn
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/supply_arrow_dwn
+[14-07-2022 10:37:15] Checking supply
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/supply
+[14-07-2022 10:37:15] Checking start_game
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/start_game
+[14-07-2022 10:37:15] Checking roster_arrow_up
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/roster_arrow_up
+[14-07-2022 10:37:15] Checking roster_arrow_dwn
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/roster_arrow_dwn
+[14-07-2022 10:37:15] Checking roster
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/roster
+[14-07-2022 10:37:15] Checking menu_supply_lines
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/menu_supply_lines
+[14-07-2022 10:37:15] Checking menu_hire_and_fire
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/menu_hire_and_fire
+[14-07-2022 10:37:15] Checking menu_change_quest
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/menu_change_quest
+[14-07-2022 10:37:15] Checking hire_button
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/hire_button
+[14-07-2022 10:37:15] Checking hire_arrow_up
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/hire_arrow_up
+[14-07-2022 10:37:15] Checking hire_arrow_dwn
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/hire_arrow_dwn
+[14-07-2022 10:37:15] Checking hires_board
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/hires_board
+[14-07-2022 10:37:15] Checking game_loader
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/game_loader
+[14-07-2022 10:37:15] Checking end_report
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/end_report
+[14-07-2022 10:37:15] Checking day_end_button
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/day_end_button
+[14-07-2022 10:37:15] Checking day_end_arrow_nxt
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/day_end_arrow_nxt
+[14-07-2022 10:37:15] Checking day_end
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/day_end
+[14-07-2022 10:37:15] Checking board_arrow_up
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/board_arrow_up
+[14-07-2022 10:37:15] Checking board_arrow_dwn
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/board_arrow_dwn
+[14-07-2022 10:37:15] Checking board
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/board
+[14-07-2022 10:37:15] Checking assign_button
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/assign_button
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/assign_button
+[14-07-2022 10:37:15] Checking Mouse_7.gml
+[14-07-2022 10:37:15] Checking Draw_0.gml
+[14-07-2022 10:37:15] Checking Create_0.gml
+[14-07-2022 10:37:15] Checking assign_button.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/assign_button/assign_button.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/assign_button/assign_button.yy
+[14-07-2022 10:37:15] Par: "folders/Objects/quest stuff" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/assign_button/assign_button.yy"
+[14-07-2022 10:37:15] Found Object: assign_button
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/board
+[14-07-2022 10:37:15] Checking Step_0.gml
+[14-07-2022 10:37:15] Checking Other_4.gml
+[14-07-2022 10:37:15] Checking Draw_73.gml
+[14-07-2022 10:37:15] Checking Create_0.gml
+[14-07-2022 10:37:15] Checking board.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/board/board.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/board/board.yy
+[14-07-2022 10:37:15] Par: "folders/Objects/quest stuff" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/board/board.yy"
+[14-07-2022 10:37:15] Found Object: board
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/board_arrow_dwn
+[14-07-2022 10:37:15] Checking Mouse_7.gml
+[14-07-2022 10:37:15] Checking Draw_0.gml
+[14-07-2022 10:37:15] Checking Create_0.gml
+[14-07-2022 10:37:15] Checking board_arrow_dwn.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/board_arrow_dwn/board_arrow_dwn.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/board_arrow_dwn/board_arrow_dwn.yy
+[14-07-2022 10:37:15] Par: "folders/Objects/quest stuff" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/board_arrow_dwn/board_arrow_dwn.yy"
+[14-07-2022 10:37:15] Found Object: board_arrow_dwn
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/board_arrow_up
+[14-07-2022 10:37:15] Checking Mouse_7.gml
+[14-07-2022 10:37:15] Checking Draw_0.gml
+[14-07-2022 10:37:15] Checking Create_0.gml
+[14-07-2022 10:37:15] Checking board_arrow_up.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/board_arrow_up/board_arrow_up.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/board_arrow_up/board_arrow_up.yy
+[14-07-2022 10:37:15] Par: "folders/Objects/quest stuff" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/board_arrow_up/board_arrow_up.yy"
+[14-07-2022 10:37:15] Found Object: board_arrow_up
+[14-07-2022 10:37:15] Checking arrow_dwn.yy
+[14-07-2022 10:37:15] Trash file: arrow_dwn.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/day_end
+[14-07-2022 10:37:15] Checking Other_4.gml
+[14-07-2022 10:37:15] Checking Draw_0.gml
+[14-07-2022 10:37:15] Checking day_end.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/day_end/day_end.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/day_end/day_end.yy
+[14-07-2022 10:37:15] Par: "folders/Objects/Day end stuff" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/day_end/day_end.yy"
+[14-07-2022 10:37:15] Found Object: day_end
+[14-07-2022 10:37:15] Checking Create_0.gml
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/day_end_arrow_nxt
+[14-07-2022 10:37:15] Checking Mouse_7.gml
+[14-07-2022 10:37:15] Checking Draw_0.gml
+[14-07-2022 10:37:15] Checking day_end_arrow_nxt.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/day_end_arrow_nxt/day_end_arrow_nxt.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/day_end_arrow_nxt/day_end_arrow_nxt.yy
+[14-07-2022 10:37:15] Par: "folders/Objects/Day end stuff" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/day_end_arrow_nxt/day_end_arrow_nxt.yy"
+[14-07-2022 10:37:15] Found Object: day_end_arrow_nxt
+[14-07-2022 10:37:15] Checking Create_0.gml
+[14-07-2022 10:37:15] Checking board_arrow_up.yy
+[14-07-2022 10:37:15] Trash file: board_arrow_up.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Checking arrow_dwn.yy
+[14-07-2022 10:37:15] Trash file: arrow_dwn.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/day_end_button
+[14-07-2022 10:37:15] Checking Mouse_7.gml
+[14-07-2022 10:37:15] Checking menu_supply_lines.yy
+[14-07-2022 10:37:15] Trash file: menu_supply_lines.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Checking menu_hire_and_fire.yy
+[14-07-2022 10:37:15] Trash file: menu_hire_and_fire.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Checking menu_change_quest.yy
+[14-07-2022 10:37:15] Trash file: menu_change_quest.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Checking Draw_0.gml
+[14-07-2022 10:37:15] Checking day_end_button.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/day_end_button/day_end_button.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/day_end_button/day_end_button.yy
+[14-07-2022 10:37:15] Par: "folders/Objects/room_changes" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/day_end_button/day_end_button.yy"
+[14-07-2022 10:37:15] Found Object: day_end_button
+[14-07-2022 10:37:15] Checking Create_0.gml
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/end_report
+[14-07-2022 10:37:15] Checking Mouse_7.gml
+[14-07-2022 10:37:15] Checking end_report.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/end_report/end_report.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/end_report/end_report.yy
+[14-07-2022 10:37:15] Par: "folders/Objects/Day end stuff" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/end_report/end_report.yy"
+[14-07-2022 10:37:15] Found Object: end_report
+[14-07-2022 10:37:15] Checking Draw_0.gml
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/game_loader
+[14-07-2022 10:37:15] Checking game_loader.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/game_loader/game_loader.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/game_loader/game_loader.yy
+[14-07-2022 10:37:15] Par: "folders/Objects/menu stuff" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/game_loader/game_loader.yy"
+[14-07-2022 10:37:15] Found Object: game_loader
+[14-07-2022 10:37:15] Checking Create_0.gml
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/hires_board
+[14-07-2022 10:37:15] Checking Step_0.gml
+[14-07-2022 10:37:15] Checking Other_4.gml
+[14-07-2022 10:37:15] Checking hires_board.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/hires_board/hires_board.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/hires_board/hires_board.yy
+[14-07-2022 10:37:15] Par: "folders/Objects/memb manage" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/hires_board/hires_board.yy"
+[14-07-2022 10:37:15] Found Object: hires_board
+[14-07-2022 10:37:15] Checking Draw_0.gml
+[14-07-2022 10:37:15] Checking Create_0.gml
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/hire_arrow_dwn
+[14-07-2022 10:37:15] Checking Mouse_7.gml
+[14-07-2022 10:37:15] Checking hire_arrow_dwn.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/hire_arrow_dwn/hire_arrow_dwn.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/hire_arrow_dwn/hire_arrow_dwn.yy
+[14-07-2022 10:37:15] Par: "folders/Objects/memb manage" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/hire_arrow_dwn/hire_arrow_dwn.yy"
+[14-07-2022 10:37:15] Found Object: hire_arrow_dwn
+[14-07-2022 10:37:15] Checking Draw_0.gml
+[14-07-2022 10:37:15] Checking Create_0.gml
+[14-07-2022 10:37:15] Checking board_arrow_dwn.yy
+[14-07-2022 10:37:15] Trash file: board_arrow_dwn.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/hire_arrow_up
+[14-07-2022 10:37:15] Checking Mouse_7.gml
+[14-07-2022 10:37:15] Checking hire_arrow_up.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/hire_arrow_up/hire_arrow_up.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/hire_arrow_up/hire_arrow_up.yy
+[14-07-2022 10:37:15] Par: "folders/Objects/memb manage" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/hire_arrow_up/hire_arrow_up.yy"
+[14-07-2022 10:37:15] Found Object: hire_arrow_up
+[14-07-2022 10:37:15] Checking hire_arrow_dwn.yy
+[14-07-2022 10:37:15] Trash file: hire_arrow_dwn.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Checking Draw_0.gml
+[14-07-2022 10:37:15] Checking Create_0.gml
+[14-07-2022 10:37:15] Checking board_arrow_dwn.yy
+[14-07-2022 10:37:15] Trash file: board_arrow_dwn.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/hire_button
+[14-07-2022 10:37:15] Checking Other_4.gml
+[14-07-2022 10:37:15] Checking Mouse_7.gml
+[14-07-2022 10:37:15] Checking hire_button.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/hire_button/hire_button.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/hire_button/hire_button.yy
+[14-07-2022 10:37:15] Par: "folders/Objects/memb manage" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/hire_button/hire_button.yy"
+[14-07-2022 10:37:15] Found Object: hire_button
+[14-07-2022 10:37:15] Checking Draw_0.gml
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/menu_change_quest
+[14-07-2022 10:37:15] Checking Mouse_7.gml
+[14-07-2022 10:37:15] Checking Mouse_11.gml
+[14-07-2022 10:37:15] Checking Mouse_10.gml
+[14-07-2022 10:37:15] Checking menu_change_quest.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/menu_change_quest/menu_change_quest.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/menu_change_quest/menu_change_quest.yy
+[14-07-2022 10:37:15] Par: "folders/Objects/room_changes" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/menu_change_quest/menu_change_quest.yy"
+[14-07-2022 10:37:15] Found Object: menu_change_quest
+[14-07-2022 10:37:15] Checking Draw_0.gml
+[14-07-2022 10:37:15] Checking Create_0.gml
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/menu_hire_and_fire
+[14-07-2022 10:37:15] Checking Mouse_7.gml
+[14-07-2022 10:37:15] Checking Mouse_11.gml
+[14-07-2022 10:37:15] Checking Mouse_10.gml
+[14-07-2022 10:37:15] Checking menu_hire_and_fire.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/menu_hire_and_fire/menu_hire_and_fire.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/menu_hire_and_fire/menu_hire_and_fire.yy
+[14-07-2022 10:37:15] Par: "folders/Objects/room_changes" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/menu_hire_and_fire/menu_hire_and_fire.yy"
+[14-07-2022 10:37:15] Found Object: menu_hire_and_fire
+[14-07-2022 10:37:15] Checking menu_change_quest.yy
+[14-07-2022 10:37:15] Trash file: menu_change_quest.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Checking Draw_0.gml
+[14-07-2022 10:37:15] Checking Create_0.gml
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/menu_supply_lines
+[14-07-2022 10:37:15] Checking Mouse_7.gml
+[14-07-2022 10:37:15] Checking Mouse_11.gml
+[14-07-2022 10:37:15] Checking Mouse_10.gml
+[14-07-2022 10:37:15] Checking menu_supply_lines.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/menu_supply_lines/menu_supply_lines.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/menu_supply_lines/menu_supply_lines.yy
+[14-07-2022 10:37:15] Par: "folders/Objects/room_changes" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/menu_supply_lines/menu_supply_lines.yy"
+[14-07-2022 10:37:15] Found Object: menu_supply_lines
+[14-07-2022 10:37:15] Checking menu_hire_and_fire.yy
+[14-07-2022 10:37:15] Trash file: menu_hire_and_fire.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Checking menu_change_quest.yy
+[14-07-2022 10:37:15] Trash file: menu_change_quest.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Checking Draw_0.gml
+[14-07-2022 10:37:15] Checking Create_0.gml
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/roster
+[14-07-2022 10:37:15] Checking Step_0.gml
+[14-07-2022 10:37:15] Checking roster.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/roster/roster.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/roster/roster.yy
+[14-07-2022 10:37:15] Par: "folders/Objects/quest stuff" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/roster/roster.yy"
+[14-07-2022 10:37:15] Found Object: roster
+[14-07-2022 10:37:15] Checking Draw_0.gml
+[14-07-2022 10:37:15] Checking Create_0.gml
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/roster_arrow_dwn
+[14-07-2022 10:37:15] Checking roster_arrow_dwn.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/roster_arrow_dwn/roster_arrow_dwn.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/roster_arrow_dwn/roster_arrow_dwn.yy
+[14-07-2022 10:37:15] Par: "folders/Objects/quest stuff" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/roster_arrow_dwn/roster_arrow_dwn.yy"
+[14-07-2022 10:37:15] Found Object: roster_arrow_dwn
+[14-07-2022 10:37:15] Checking Mouse_7.gml
+[14-07-2022 10:37:15] Checking Draw_0.gml
+[14-07-2022 10:37:15] Checking Create_0.gml
+[14-07-2022 10:37:15] Checking board_arrow_dwn.yy
+[14-07-2022 10:37:15] Trash file: board_arrow_dwn.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/roster_arrow_up
+[14-07-2022 10:37:15] Checking roster_arrow_up.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/roster_arrow_up/roster_arrow_up.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/roster_arrow_up/roster_arrow_up.yy
+[14-07-2022 10:37:15] Par: "folders/Objects/quest stuff" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/roster_arrow_up/roster_arrow_up.yy"
+[14-07-2022 10:37:15] Found Object: roster_arrow_up
+[14-07-2022 10:37:15] Checking roster_arrow_dwn.yy
+[14-07-2022 10:37:15] Trash file: roster_arrow_dwn.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Checking Mouse_7.gml
+[14-07-2022 10:37:15] Checking Draw_0.gml
+[14-07-2022 10:37:15] Checking Create_0.gml
+[14-07-2022 10:37:15] Checking board_arrow_dwn.yy
+[14-07-2022 10:37:15] Trash file: board_arrow_dwn.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/start_game
+[14-07-2022 10:37:15] Checking start_game.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/start_game/start_game.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/start_game/start_game.yy
+[14-07-2022 10:37:15] Par: "folders/Objects/menu stuff" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/start_game/start_game.yy"
+[14-07-2022 10:37:15] Found Object: start_game
+[14-07-2022 10:37:15] Checking Mouse_7.gml
+[14-07-2022 10:37:15] Checking Draw_0.gml
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/supply
+[14-07-2022 10:37:15] Checking supply.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/supply/supply.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/supply/supply.yy
+[14-07-2022 10:37:15] Par: "folders/Objects/Supply Lines stuff" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/supply/supply.yy"
+[14-07-2022 10:37:15] Found Object: supply
+[14-07-2022 10:37:15] Checking Step_0.gml
+[14-07-2022 10:37:15] Checking Other_4.gml
+[14-07-2022 10:37:15] Checking Draw_0.gml
+[14-07-2022 10:37:15] Checking Create_0.gml
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/supply_arrow_dwn
+[14-07-2022 10:37:15] Checking supply_arrow_dwn.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/supply_arrow_dwn/supply_arrow_dwn.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/supply_arrow_dwn/supply_arrow_dwn.yy
+[14-07-2022 10:37:15] Par: "folders/Objects/Supply Lines stuff" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/supply_arrow_dwn/supply_arrow_dwn.yy"
+[14-07-2022 10:37:15] Found Object: supply_arrow_dwn
+[14-07-2022 10:37:15] Checking Mouse_7.gml
+[14-07-2022 10:37:15] Checking hire_arrow_dwn.yy
+[14-07-2022 10:37:15] Trash file: hire_arrow_dwn.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Checking Draw_0.gml
+[14-07-2022 10:37:15] Checking Create_0.gml
+[14-07-2022 10:37:15] Checking board_arrow_dwn.yy
+[14-07-2022 10:37:15] Trash file: board_arrow_dwn.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/supply_arrow_up
+[14-07-2022 10:37:15] Checking supply_arrow_up.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/supply_arrow_up/supply_arrow_up.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/supply_arrow_up/supply_arrow_up.yy
+[14-07-2022 10:37:15] Par: "folders/Objects/Supply Lines stuff" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/supply_arrow_up/supply_arrow_up.yy"
+[14-07-2022 10:37:15] Found Object: supply_arrow_up
+[14-07-2022 10:37:15] Checking supply_arrow_dwn.yy
+[14-07-2022 10:37:15] Trash file: supply_arrow_dwn.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Checking Mouse_7.gml
+[14-07-2022 10:37:15] Checking hire_arrow_dwn.yy
+[14-07-2022 10:37:15] Trash file: hire_arrow_dwn.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Checking Draw_0.gml
+[14-07-2022 10:37:15] Checking Create_0.gml
+[14-07-2022 10:37:15] Checking board_arrow_dwn.yy
+[14-07-2022 10:37:15] Trash file: board_arrow_dwn.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/tab
+[14-07-2022 10:37:15] Checking tab.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/tab/tab.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/tab/tab.yy
+[14-07-2022 10:37:15] Par: "folders/Objects/quest stuff" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/tab/tab.yy"
+[14-07-2022 10:37:15] Found Object: tab
+[14-07-2022 10:37:15] Checking Mouse_7.gml
+[14-07-2022 10:37:15] Checking Draw_0.gml
+[14-07-2022 10:37:15] Checking Create_0.gml
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/tab_hires
+[14-07-2022 10:37:15] Checking tab_hires.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/tab_hires/tab_hires.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/tab_hires/tab_hires.yy
+[14-07-2022 10:37:15] Par: "folders/Objects/memb manage" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/objects/tab_hires/tab_hires.yy"
+[14-07-2022 10:37:15] Found Object: tab_hires
+[14-07-2022 10:37:15] Checking tab.yy
+[14-07-2022 10:37:15] Trash file: tab.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Checking Mouse_7.gml
+[14-07-2022 10:37:15] Checking Draw_0.gml
+[14-07-2022 10:37:15] Checking Create_0.gml
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/options
+[14-07-2022 10:37:15] Checking windows
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/windows
+[14-07-2022 10:37:15] Checking tvos
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/tvos
+[14-07-2022 10:37:15] Checking operagx
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/operagx
+[14-07-2022 10:37:15] Checking main
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/main
+[14-07-2022 10:37:15] Checking mac
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/mac
+[14-07-2022 10:37:15] Checking linux
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/linux
+[14-07-2022 10:37:15] Checking ios
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/ios
+[14-07-2022 10:37:15] Checking html5
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/html5
+[14-07-2022 10:37:15] Checking android
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/android
+[14-07-2022 10:37:15] Checking amazonfire
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/amazonfire
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/amazonfire
+[14-07-2022 10:37:15] Checking options_amazonfire.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/amazonfire/options_amazonfire.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/amazonfire/options_amazonfire.yy
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/android
+[14-07-2022 10:37:15] Checking options_android.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/android/options_android.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/android/options_android.yy
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/html5
+[14-07-2022 10:37:15] Checking options_html5.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/html5/options_html5.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/html5/options_html5.yy
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/ios
+[14-07-2022 10:37:15] Checking options_ios.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/ios/options_ios.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/ios/options_ios.yy
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/linux
+[14-07-2022 10:37:15] Checking options_linux.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/linux/options_linux.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/linux/options_linux.yy
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/mac
+[14-07-2022 10:37:15] Checking options_mac.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/mac/options_mac.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/mac/options_mac.yy
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/main
+[14-07-2022 10:37:15] Checking options_main.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/main/options_main.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/main/options_main.yy
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/operagx
+[14-07-2022 10:37:15] Checking options_operagx.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/operagx/options_operagx.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/operagx/options_operagx.yy
+[14-07-2022 10:37:15] Invalid file: options_operagx.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/tvos
+[14-07-2022 10:37:15] Checking options_tvos.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/tvos/options_tvos.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/tvos/options_tvos.yy
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/windows
+[14-07-2022 10:37:15] Checking options_windows.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/windows/options_windows.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/options/windows/options_windows.yy
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/paths
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/rooms
+[14-07-2022 10:37:15] Checking title
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/rooms/title
+[14-07-2022 10:37:15] Checking supply_lines
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/rooms/supply_lines
+[14-07-2022 10:37:15] Checking roster_book
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/rooms/roster_book
+[14-07-2022 10:37:15] Checking quest_board
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/rooms/quest_board
+[14-07-2022 10:37:15] Checking day_end_room
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/rooms/day_end_room
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/rooms/day_end_room
+[14-07-2022 10:37:15] Checking day_end_room.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/rooms/day_end_room/day_end_room.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/rooms/day_end_room/day_end_room.yy
+[14-07-2022 10:37:15] Par: "folders/Rooms" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/rooms/day_end_room/day_end_room.yy"
+[14-07-2022 10:37:15] Found Room: day_end_room
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/rooms/quest_board
+[14-07-2022 10:37:15] Checking quest_board.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/rooms/quest_board/quest_board.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/rooms/quest_board/quest_board.yy
+[14-07-2022 10:37:15] Par: "folders/Rooms" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/rooms/quest_board/quest_board.yy"
+[14-07-2022 10:37:15] Found Room: quest_board
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/rooms/roster_book
+[14-07-2022 10:37:15] Checking roster_book.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/rooms/roster_book/roster_book.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/rooms/roster_book/roster_book.yy
+[14-07-2022 10:37:15] Par: "folders/Rooms" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/rooms/roster_book/roster_book.yy"
+[14-07-2022 10:37:15] Found Room: roster_book
+[14-07-2022 10:37:15] Checking quest_board.yy
+[14-07-2022 10:37:15] Trash file: quest_board.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/rooms/supply_lines
+[14-07-2022 10:37:15] Checking supply_lines.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/rooms/supply_lines/supply_lines.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/rooms/supply_lines/supply_lines.yy
+[14-07-2022 10:37:15] Par: "folders/Rooms" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/rooms/supply_lines/supply_lines.yy"
+[14-07-2022 10:37:15] Found Room: supply_lines
+[14-07-2022 10:37:15] Checking roster_book.yy
+[14-07-2022 10:37:15] Trash file: roster_book.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Checking quest_board.yy
+[14-07-2022 10:37:15] Trash file: quest_board.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/rooms/title
+[14-07-2022 10:37:15] Checking title.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/rooms/title/title.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/rooms/title/title.yy
+[14-07-2022 10:37:15] Par: "folders/Rooms" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/rooms/title/title.yy"
+[14-07-2022 10:37:15] Found Room: title
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts
+[14-07-2022 10:37:15] Checking sup_lin_handler
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/sup_lin_handler
+[14-07-2022 10:37:15] Checking report_scripts
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/report_scripts
+[14-07-2022 10:37:15] Checking quest_handler
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/quest_handler
+[14-07-2022 10:37:15] Checking game_managent
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/game_managent
+[14-07-2022 10:37:15] Checking foreach
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/foreach
+[14-07-2022 10:37:15] Checking character_creation
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/character_creation
+[14-07-2022 10:37:15] Checking calendar
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/calendar
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/calendar
+[14-07-2022 10:37:15] Checking calendar.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/calendar/calendar.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/calendar/calendar.yy
+[14-07-2022 10:37:15] Par: "folders/Scripts" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/calendar/calendar.yy"
+[14-07-2022 10:37:15] Found Script: calendar
+[14-07-2022 10:37:15] Checking calendar.gml
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/character_creation
+[14-07-2022 10:37:15] Checking character_creation.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/character_creation/character_creation.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/character_creation/character_creation.yy
+[14-07-2022 10:37:15] Par: "folders/Scripts" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/character_creation/character_creation.yy"
+[14-07-2022 10:37:15] Found Script: character_creation
+[14-07-2022 10:37:15] Checking character_creation.gml
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/foreach
+[14-07-2022 10:37:15] Checking foreach.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/foreach/foreach.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/foreach/foreach.yy
+[14-07-2022 10:37:15] Par: "folders/Scripts" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/foreach/foreach.yy"
+[14-07-2022 10:37:15] Found Script: foreach
+[14-07-2022 10:37:15] Checking foreach.gml
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/game_managent
+[14-07-2022 10:37:15] Checking game_managent.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/game_managent/game_managent.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/game_managent/game_managent.yy
+[14-07-2022 10:37:15] Par: "folders/Scripts" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/game_managent/game_managent.yy"
+[14-07-2022 10:37:15] Found Script: game_managent
+[14-07-2022 10:37:15] Checking game_managent.gml
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/quest_handler
+[14-07-2022 10:37:15] Checking quest_handler.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/quest_handler/quest_handler.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/quest_handler/quest_handler.yy
+[14-07-2022 10:37:15] Par: "folders/Scripts" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/quest_handler/quest_handler.yy"
+[14-07-2022 10:37:15] Found Script: quest_handler
+[14-07-2022 10:37:15] Checking quest_handler.gml
+[14-07-2022 10:37:15] Checking character_creation.yy
+[14-07-2022 10:37:15] Trash file: character_creation.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/report_scripts
+[14-07-2022 10:37:15] Checking report_scripts.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/report_scripts/report_scripts.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/report_scripts/report_scripts.yy
+[14-07-2022 10:37:15] Par: "folders/Scripts" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/report_scripts/report_scripts.yy"
+[14-07-2022 10:37:15] Found Script: report_scripts
+[14-07-2022 10:37:15] Checking report_scripts.gml
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/sup_lin_handler
+[14-07-2022 10:37:15] Checking sup_lin_handler.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/sup_lin_handler/sup_lin_handler.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/sup_lin_handler/sup_lin_handler.yy
+[14-07-2022 10:37:15] Par: "folders/Scripts" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/scripts/sup_lin_handler/sup_lin_handler.yy"
+[14-07-2022 10:37:15] Found Script: sup_lin_handler
+[14-07-2022 10:37:15] Checking sup_lin_handler.gml
+[14-07-2022 10:37:15] Checking character_creation.yy
+[14-07-2022 10:37:15] Trash file: character_creation.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sequences
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/shaders
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sounds
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites
+[14-07-2022 10:37:15] Checking TickIcon
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/TickIcon
+[14-07-2022 10:37:15] Checking TickBox
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/TickBox
+[14-07-2022 10:37:15] Checking tab_spr
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/tab_spr
+[14-07-2022 10:37:15] Checking SmallBackground2
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SmallBackground2
+[14-07-2022 10:37:15] Checking SmallBackground
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SmallBackground
+[14-07-2022 10:37:15] Checking SettingsBackground
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SettingsBackground
+[14-07-2022 10:37:15] Checking SaveSlotSelected
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SaveSlotSelected
+[14-07-2022 10:37:15] Checking SaveSlot
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SaveSlot
+[14-07-2022 10:37:15] Checking RedButton
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/RedButton
+[14-07-2022 10:37:15] Checking q_ass_spr
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/q_ass_spr
+[14-07-2022 10:37:15] Checking PlainB
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/PlainB
+[14-07-2022 10:37:15] Checking PlainA
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/PlainA
+[14-07-2022 10:37:15] Checking pin_spr
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/pin_spr
+[14-07-2022 10:37:15] Checking nonarrow_spr
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/nonarrow_spr
+[14-07-2022 10:37:15] Checking list_dot_spr
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/list_dot_spr
+[14-07-2022 10:37:15] Checking GreenButtonLong
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/GreenButtonLong
+[14-07-2022 10:37:15] Checking GreenButton
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/GreenButton
+[14-07-2022 10:37:15] Checking DungeonA
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DungeonA
+[14-07-2022 10:37:15] Checking DialogueTitle_red
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DialogueTitle_red
+[14-07-2022 10:37:15] Checking DialogueTitle
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DialogueTitle
+[14-07-2022 10:37:15] Checking DialogueBox
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DialogueBox
+[14-07-2022 10:37:15] Checking DesertB
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DesertB
+[14-07-2022 10:37:15] Checking DesertA
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DesertA
+[14-07-2022 10:37:15] Checking ButtonHighlight
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/ButtonHighlight
+[14-07-2022 10:37:15] Checking BlueTitle
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/BlueTitle
+[14-07-2022 10:37:15] Checking BlueButton
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/BlueButton
+[14-07-2022 10:37:15] Checking arrow_spr
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/arrow_spr
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/arrow_spr
+[14-07-2022 10:37:15] Checking layers
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/arrow_spr/layers
+[14-07-2022 10:37:15] Checking arrow_spr.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/arrow_spr/arrow_spr.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/arrow_spr/arrow_spr.yy
+[14-07-2022 10:37:15] Par: "folders/Sprites/UI objects" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/arrow_spr/arrow_spr.yy"
+[14-07-2022 10:37:15] Found Sprite: arrow_spr
+[14-07-2022 10:37:15] Checking 81e3d8c5-5ad8-48e2-a1b8-c7478dd90abc.png
+[14-07-2022 10:37:15] Checking 49d4a259-90f6-41ee-9504-d991f7585d98.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/arrow_spr/layers
+[14-07-2022 10:37:15] Checking 81e3d8c5-5ad8-48e2-a1b8-c7478dd90abc
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/arrow_spr/layers/81e3d8c5-5ad8-48e2-a1b8-c7478dd90abc
+[14-07-2022 10:37:15] Checking 49d4a259-90f6-41ee-9504-d991f7585d98
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/arrow_spr/layers/49d4a259-90f6-41ee-9504-d991f7585d98
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/arrow_spr/layers/49d4a259-90f6-41ee-9504-d991f7585d98
+[14-07-2022 10:37:15] Checking c1fa6bf1-2a71-42e9-a4cc-68113b0fc0cc.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/arrow_spr/layers/81e3d8c5-5ad8-48e2-a1b8-c7478dd90abc
+[14-07-2022 10:37:15] Checking c1fa6bf1-2a71-42e9-a4cc-68113b0fc0cc.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/BlueButton
+[14-07-2022 10:37:15] Checking layers
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/BlueButton/layers
+[14-07-2022 10:37:15] Checking ec539e0e-81d9-4d7e-bd1a-30c90e838310.png
+[14-07-2022 10:37:15] Checking BlueButton.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/BlueButton/BlueButton.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/BlueButton/BlueButton.yy
+[14-07-2022 10:37:15] Par: "folders/Sprites/UI objects" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/BlueButton/BlueButton.yy"
+[14-07-2022 10:37:15] Found Sprite: BlueButton
+[14-07-2022 10:37:15] Checking 1c6800e8-21ca-41e2-80aa-3188078d9ed8.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/BlueButton/layers
+[14-07-2022 10:37:15] Checking ec539e0e-81d9-4d7e-bd1a-30c90e838310
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/BlueButton/layers/ec539e0e-81d9-4d7e-bd1a-30c90e838310
+[14-07-2022 10:37:15] Checking 1c6800e8-21ca-41e2-80aa-3188078d9ed8
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/BlueButton/layers/1c6800e8-21ca-41e2-80aa-3188078d9ed8
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/BlueButton/layers/1c6800e8-21ca-41e2-80aa-3188078d9ed8
+[14-07-2022 10:37:15] Checking 6a0e0b04-3089-4100-83ff-2d6844a77dd5.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/BlueButton/layers/ec539e0e-81d9-4d7e-bd1a-30c90e838310
+[14-07-2022 10:37:15] Checking 6a0e0b04-3089-4100-83ff-2d6844a77dd5.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/BlueTitle
+[14-07-2022 10:37:15] Checking layers
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/BlueTitle/layers
+[14-07-2022 10:37:15] Checking d7badd57-e751-4279-af2b-8689031f3889.png
+[14-07-2022 10:37:15] Checking BlueTitle.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/BlueTitle/BlueTitle.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/BlueTitle/BlueTitle.yy
+[14-07-2022 10:37:15] Par: "folders/Sprites/UI objects" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/BlueTitle/BlueTitle.yy"
+[14-07-2022 10:37:15] Found Sprite: BlueTitle
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/BlueTitle/layers
+[14-07-2022 10:37:15] Checking d7badd57-e751-4279-af2b-8689031f3889
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/BlueTitle/layers/d7badd57-e751-4279-af2b-8689031f3889
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/BlueTitle/layers/d7badd57-e751-4279-af2b-8689031f3889
+[14-07-2022 10:37:15] Checking 89da5ae5-e1f4-46ba-942a-54ec8f37395e.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/ButtonHighlight
+[14-07-2022 10:37:15] Checking layers
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/ButtonHighlight/layers
+[14-07-2022 10:37:15] Checking ec539e0e-81d9-4d7e-bd1a-30c90e838310.png
+[14-07-2022 10:37:15] Checking ButtonHighlight.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/ButtonHighlight/ButtonHighlight.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/ButtonHighlight/ButtonHighlight.yy
+[14-07-2022 10:37:15] Par: "folders/Sprites/UI objects" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/ButtonHighlight/ButtonHighlight.yy"
+[14-07-2022 10:37:15] Found Sprite: ButtonHighlight
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/ButtonHighlight/layers
+[14-07-2022 10:37:15] Checking ec539e0e-81d9-4d7e-bd1a-30c90e838310
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/ButtonHighlight/layers/ec539e0e-81d9-4d7e-bd1a-30c90e838310
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/ButtonHighlight/layers/ec539e0e-81d9-4d7e-bd1a-30c90e838310
+[14-07-2022 10:37:15] Checking 6a0e0b04-3089-4100-83ff-2d6844a77dd5.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DesertA
+[14-07-2022 10:37:15] Checking layers
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DesertA/layers
+[14-07-2022 10:37:15] Checking f1359e80-6bf9-4d55-9dd5-52723d872f3f.png
+[14-07-2022 10:37:15] Checking DesertA.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DesertA/DesertA.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DesertA/DesertA.yy
+[14-07-2022 10:37:15] Par: "folders/Sprites/Enviroment" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DesertA/DesertA.yy"
+[14-07-2022 10:37:15] Found Sprite: DesertA
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DesertA/layers
+[14-07-2022 10:37:15] Checking f1359e80-6bf9-4d55-9dd5-52723d872f3f
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DesertA/layers/f1359e80-6bf9-4d55-9dd5-52723d872f3f
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DesertA/layers/f1359e80-6bf9-4d55-9dd5-52723d872f3f
+[14-07-2022 10:37:15] Checking 3213f95d-acc8-41e8-bb4d-59ef1f23ba58.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DesertB
+[14-07-2022 10:37:15] Checking layers
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DesertB/layers
+[14-07-2022 10:37:15] Checking DesertB.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DesertB/DesertB.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DesertB/DesertB.yy
+[14-07-2022 10:37:15] Par: "folders/Sprites/Enviroment" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DesertB/DesertB.yy"
+[14-07-2022 10:37:15] Found Sprite: DesertB
+[14-07-2022 10:37:15] Checking 4cb84eea-cc4c-4a16-a9ef-140a961af77c.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DesertB/layers
+[14-07-2022 10:37:15] Checking 4cb84eea-cc4c-4a16-a9ef-140a961af77c
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DesertB/layers/4cb84eea-cc4c-4a16-a9ef-140a961af77c
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DesertB/layers/4cb84eea-cc4c-4a16-a9ef-140a961af77c
+[14-07-2022 10:37:15] Checking 2e4522db-35bd-4f8d-88d2-28033b4012fb.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DialogueBox
+[14-07-2022 10:37:15] Checking layers
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DialogueBox/layers
+[14-07-2022 10:37:15] Checking DialogueBox.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DialogueBox/DialogueBox.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DialogueBox/DialogueBox.yy
+[14-07-2022 10:37:15] Par: "folders/Sprites/UI objects" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DialogueBox/DialogueBox.yy"
+[14-07-2022 10:37:15] Found Sprite: DialogueBox
+[14-07-2022 10:37:15] Checking 13014580-8d3b-4565-89e4-007eee123ccd.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DialogueBox/layers
+[14-07-2022 10:37:15] Checking 13014580-8d3b-4565-89e4-007eee123ccd
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DialogueBox/layers/13014580-8d3b-4565-89e4-007eee123ccd
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DialogueBox/layers/13014580-8d3b-4565-89e4-007eee123ccd
+[14-07-2022 10:37:15] Checking 78369dc2-8fb1-4610-8ac4-4f53c4d2851e.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DialogueTitle
+[14-07-2022 10:37:15] Checking layers
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DialogueTitle/layers
+[14-07-2022 10:37:15] Checking DialogueTitle.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DialogueTitle/DialogueTitle.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DialogueTitle/DialogueTitle.yy
+[14-07-2022 10:37:15] Par: "folders/Sprites/UI objects" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DialogueTitle/DialogueTitle.yy"
+[14-07-2022 10:37:15] Found Sprite: DialogueTitle
+[14-07-2022 10:37:15] Checking 0e5c1fcf-e7e9-4080-8b1d-6b0e4d16e1a7.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DialogueTitle/layers
+[14-07-2022 10:37:15] Checking 0e5c1fcf-e7e9-4080-8b1d-6b0e4d16e1a7
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DialogueTitle/layers/0e5c1fcf-e7e9-4080-8b1d-6b0e4d16e1a7
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DialogueTitle/layers/0e5c1fcf-e7e9-4080-8b1d-6b0e4d16e1a7
+[14-07-2022 10:37:15] Checking 57bf574a-6ea9-44ad-aaed-9dedc9367567.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DialogueTitle_red
+[14-07-2022 10:37:15] Checking layers
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DialogueTitle_red/layers
+[14-07-2022 10:37:15] Checking DialogueTitle_red.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DialogueTitle_red/DialogueTitle_red.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DialogueTitle_red/DialogueTitle_red.yy
+[14-07-2022 10:37:15] Par: "folders/Sprites/UI objects" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DialogueTitle_red/DialogueTitle_red.yy"
+[14-07-2022 10:37:15] Found Sprite: DialogueTitle_red
+[14-07-2022 10:37:15] Checking dc7c6c87-f50a-437b-b4ef-10a3bac8a44e.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DialogueTitle_red/layers
+[14-07-2022 10:37:15] Checking dc7c6c87-f50a-437b-b4ef-10a3bac8a44e
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DialogueTitle_red/layers/dc7c6c87-f50a-437b-b4ef-10a3bac8a44e
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DialogueTitle_red/layers/dc7c6c87-f50a-437b-b4ef-10a3bac8a44e
+[14-07-2022 10:37:15] Checking d0659782-f534-4484-8c1b-8b51a76211d6.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DungeonA
+[14-07-2022 10:37:15] Checking layers
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DungeonA/layers
+[14-07-2022 10:37:15] Checking DungeonA.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DungeonA/DungeonA.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DungeonA/DungeonA.yy
+[14-07-2022 10:37:15] Par: "folders/Sprites/Enviroment" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DungeonA/DungeonA.yy"
+[14-07-2022 10:37:15] Found Sprite: DungeonA
+[14-07-2022 10:37:15] Checking 10d64113-9eb8-4fdf-9aba-d29d280466dc.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DungeonA/layers
+[14-07-2022 10:37:15] Checking 10d64113-9eb8-4fdf-9aba-d29d280466dc
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DungeonA/layers/10d64113-9eb8-4fdf-9aba-d29d280466dc
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/DungeonA/layers/10d64113-9eb8-4fdf-9aba-d29d280466dc
+[14-07-2022 10:37:15] Checking 95b30afb-ec00-4d56-894b-2b2aa5fecb4f.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/GreenButton
+[14-07-2022 10:37:15] Checking layers
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/GreenButton/layers
+[14-07-2022 10:37:15] Checking GreenButton.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/GreenButton/GreenButton.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/GreenButton/GreenButton.yy
+[14-07-2022 10:37:15] Par: "folders/Sprites/UI objects" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/GreenButton/GreenButton.yy"
+[14-07-2022 10:37:15] Found Sprite: GreenButton
+[14-07-2022 10:37:15] Checking b73bb0a5-45c1-4784-a443-9316f7bd1567.png
+[14-07-2022 10:37:15] Checking 868b8131-2b0d-4cc1-b0df-b98b487f2c29.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/GreenButton/layers
+[14-07-2022 10:37:15] Checking b73bb0a5-45c1-4784-a443-9316f7bd1567
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/GreenButton/layers/b73bb0a5-45c1-4784-a443-9316f7bd1567
+[14-07-2022 10:37:15] Checking 868b8131-2b0d-4cc1-b0df-b98b487f2c29
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/GreenButton/layers/868b8131-2b0d-4cc1-b0df-b98b487f2c29
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/GreenButton/layers/868b8131-2b0d-4cc1-b0df-b98b487f2c29
+[14-07-2022 10:37:15] Checking 57fe88d2-4855-4df3-a84b-dfae18e8a75a.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/GreenButton/layers/b73bb0a5-45c1-4784-a443-9316f7bd1567
+[14-07-2022 10:37:15] Checking 57fe88d2-4855-4df3-a84b-dfae18e8a75a.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/GreenButtonLong
+[14-07-2022 10:37:15] Checking layers
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/GreenButtonLong/layers
+[14-07-2022 10:37:15] Checking GreenButtonLong.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/GreenButtonLong/GreenButtonLong.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/GreenButtonLong/GreenButtonLong.yy
+[14-07-2022 10:37:15] Par: "folders/Sprites/UI objects" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/GreenButtonLong/GreenButtonLong.yy"
+[14-07-2022 10:37:15] Found Sprite: GreenButtonLong
+[14-07-2022 10:37:15] Checking aeae5459-7d69-4a48-a695-8e44fc7a3dc5.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/GreenButtonLong/layers
+[14-07-2022 10:37:15] Checking aeae5459-7d69-4a48-a695-8e44fc7a3dc5
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/GreenButtonLong/layers/aeae5459-7d69-4a48-a695-8e44fc7a3dc5
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/GreenButtonLong/layers/aeae5459-7d69-4a48-a695-8e44fc7a3dc5
+[14-07-2022 10:37:15] Checking 39ae527a-3ffb-4bb3-8205-6dce05c30723.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/list_dot_spr
+[14-07-2022 10:37:15] Checking list_dot_spr.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/list_dot_spr/list_dot_spr.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/list_dot_spr/list_dot_spr.yy
+[14-07-2022 10:37:15] Par: "folders/Sprites/UI objects" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/list_dot_spr/list_dot_spr.yy"
+[14-07-2022 10:37:15] Found Sprite: list_dot_spr
+[14-07-2022 10:37:15] Checking layers
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/list_dot_spr/layers
+[14-07-2022 10:37:15] Checking 8f7dbcdd-c05d-4fe0-bd35-81fae122c33c.png
+[14-07-2022 10:37:15] Checking 5aa724f4-3467-4575-9519-f4902930da5c.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/list_dot_spr/layers
+[14-07-2022 10:37:15] Checking 8f7dbcdd-c05d-4fe0-bd35-81fae122c33c
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/list_dot_spr/layers/8f7dbcdd-c05d-4fe0-bd35-81fae122c33c
+[14-07-2022 10:37:15] Checking 5aa724f4-3467-4575-9519-f4902930da5c
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/list_dot_spr/layers/5aa724f4-3467-4575-9519-f4902930da5c
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/list_dot_spr/layers/5aa724f4-3467-4575-9519-f4902930da5c
+[14-07-2022 10:37:15] Checking 4f807f09-47e2-4ca8-baa4-cccd5916dd78.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/list_dot_spr/layers/8f7dbcdd-c05d-4fe0-bd35-81fae122c33c
+[14-07-2022 10:37:15] Checking 4f807f09-47e2-4ca8-baa4-cccd5916dd78.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/nonarrow_spr
+[14-07-2022 10:37:15] Checking nonarrow_spr.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/nonarrow_spr/nonarrow_spr.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/nonarrow_spr/nonarrow_spr.yy
+[14-07-2022 10:37:15] Par: "folders/Sprites/UI objects" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/nonarrow_spr/nonarrow_spr.yy"
+[14-07-2022 10:37:15] Found Sprite: nonarrow_spr
+[14-07-2022 10:37:15] Checking layers
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/nonarrow_spr/layers
+[14-07-2022 10:37:15] Checking arrow_spr.yy
+[14-07-2022 10:37:15] Trash file: arrow_spr.yy, will be moved to ___yyp_maker_trash
+[14-07-2022 10:37:15] Checking 49d4a259-90f6-41ee-9504-d991f7585d98.png
+[14-07-2022 10:37:15] Checking 33189f98-6ea3-4354-a37c-4448fa8f161d.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/nonarrow_spr/layers
+[14-07-2022 10:37:15] Checking 49d4a259-90f6-41ee-9504-d991f7585d98
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/nonarrow_spr/layers/49d4a259-90f6-41ee-9504-d991f7585d98
+[14-07-2022 10:37:15] Checking 33189f98-6ea3-4354-a37c-4448fa8f161d
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/nonarrow_spr/layers/33189f98-6ea3-4354-a37c-4448fa8f161d
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/nonarrow_spr/layers/33189f98-6ea3-4354-a37c-4448fa8f161d
+[14-07-2022 10:37:15] Checking c1fa6bf1-2a71-42e9-a4cc-68113b0fc0cc.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/nonarrow_spr/layers/49d4a259-90f6-41ee-9504-d991f7585d98
+[14-07-2022 10:37:15] Checking c1fa6bf1-2a71-42e9-a4cc-68113b0fc0cc.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/pin_spr
+[14-07-2022 10:37:15] Checking pin_spr.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/pin_spr/pin_spr.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/pin_spr/pin_spr.yy
+[14-07-2022 10:37:15] Par: "folders/Sprites/Enviroment" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/pin_spr/pin_spr.yy"
+[14-07-2022 10:37:15] Found Sprite: pin_spr
+[14-07-2022 10:37:15] Checking layers
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/pin_spr/layers
+[14-07-2022 10:37:15] Checking 19addbc6-8487-4d62-be6c-61c87162e37d.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/pin_spr/layers
+[14-07-2022 10:37:15] Checking 19addbc6-8487-4d62-be6c-61c87162e37d
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/pin_spr/layers/19addbc6-8487-4d62-be6c-61c87162e37d
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/pin_spr/layers/19addbc6-8487-4d62-be6c-61c87162e37d
+[14-07-2022 10:37:15] Checking f83f5a13-33a4-4836-984f-d5581c99678e.png
+[14-07-2022 10:37:15] Checking c58e9a66-6706-45da-9d7a-b5755002820d.png
+[14-07-2022 10:37:15] Checking 8c6a305a-6cbb-4fc9-aa83-308e6c4218d5.png
+[14-07-2022 10:37:15] Checking 0bc8ce23-c9ab-4a08-9d07-b12002f0765c.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/PlainA
+[14-07-2022 10:37:15] Checking PlainA.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/PlainA/PlainA.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/PlainA/PlainA.yy
+[14-07-2022 10:37:15] Par: "folders/Sprites/Enviroment" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/PlainA/PlainA.yy"
+[14-07-2022 10:37:15] Found Sprite: PlainA
+[14-07-2022 10:37:15] Checking layers
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/PlainA/layers
+[14-07-2022 10:37:15] Checking eac0575d-e719-4bad-bd5b-f90e6a3a4dd4.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/PlainA/layers
+[14-07-2022 10:37:15] Checking eac0575d-e719-4bad-bd5b-f90e6a3a4dd4
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/PlainA/layers/eac0575d-e719-4bad-bd5b-f90e6a3a4dd4
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/PlainA/layers/eac0575d-e719-4bad-bd5b-f90e6a3a4dd4
+[14-07-2022 10:37:15] Checking 374c11f8-3799-47d1-b622-3d9735142ce3.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/PlainB
+[14-07-2022 10:37:15] Checking PlainB.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/PlainB/PlainB.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/PlainB/PlainB.yy
+[14-07-2022 10:37:15] Par: "folders/Sprites/Enviroment" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/PlainB/PlainB.yy"
+[14-07-2022 10:37:15] Found Sprite: PlainB
+[14-07-2022 10:37:15] Checking layers
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/PlainB/layers
+[14-07-2022 10:37:15] Checking ca4b7b6b-4bc3-4171-9e07-fa05a35b2124.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/PlainB/layers
+[14-07-2022 10:37:15] Checking ca4b7b6b-4bc3-4171-9e07-fa05a35b2124
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/PlainB/layers/ca4b7b6b-4bc3-4171-9e07-fa05a35b2124
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/PlainB/layers/ca4b7b6b-4bc3-4171-9e07-fa05a35b2124
+[14-07-2022 10:37:15] Checking 203ee4f6-024d-462e-914f-0e4eb8955b03.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/q_ass_spr
+[14-07-2022 10:37:15] Checking q_ass_spr.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/q_ass_spr/q_ass_spr.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/q_ass_spr/q_ass_spr.yy
+[14-07-2022 10:37:15] Par: "folders/Sprites/UI objects" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/q_ass_spr/q_ass_spr.yy"
+[14-07-2022 10:37:15] Found Sprite: q_ass_spr
+[14-07-2022 10:37:15] Checking layers
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/q_ass_spr/layers
+[14-07-2022 10:37:15] Checking dec5ae07-f7e7-40a8-8f1d-06256e7ee82e.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/q_ass_spr/layers
+[14-07-2022 10:37:15] Checking dec5ae07-f7e7-40a8-8f1d-06256e7ee82e
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/q_ass_spr/layers/dec5ae07-f7e7-40a8-8f1d-06256e7ee82e
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/q_ass_spr/layers/dec5ae07-f7e7-40a8-8f1d-06256e7ee82e
+[14-07-2022 10:37:15] Checking 645f2a40-8e4f-4bb7-be17-84d95e7b427c.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/RedButton
+[14-07-2022 10:37:15] Checking RedButton.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/RedButton/RedButton.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/RedButton/RedButton.yy
+[14-07-2022 10:37:15] Par: "folders/Sprites/UI objects" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/RedButton/RedButton.yy"
+[14-07-2022 10:37:15] Found Sprite: RedButton
+[14-07-2022 10:37:15] Checking layers
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/RedButton/layers
+[14-07-2022 10:37:15] Checking 96edbeaf-1c3c-40b3-9b13-f1f82412447e.png
+[14-07-2022 10:37:15] Checking 85ed41d2-cca6-4a10-8313-5d3ad6280e19.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/RedButton/layers
+[14-07-2022 10:37:15] Checking 96edbeaf-1c3c-40b3-9b13-f1f82412447e
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/RedButton/layers/96edbeaf-1c3c-40b3-9b13-f1f82412447e
+[14-07-2022 10:37:15] Checking 85ed41d2-cca6-4a10-8313-5d3ad6280e19
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/RedButton/layers/85ed41d2-cca6-4a10-8313-5d3ad6280e19
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/RedButton/layers/85ed41d2-cca6-4a10-8313-5d3ad6280e19
+[14-07-2022 10:37:15] Checking e596b405-a80f-4063-a87b-1768e0f50bf5.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/RedButton/layers/96edbeaf-1c3c-40b3-9b13-f1f82412447e
+[14-07-2022 10:37:15] Checking e596b405-a80f-4063-a87b-1768e0f50bf5.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SaveSlot
+[14-07-2022 10:37:15] Checking SaveSlot.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SaveSlot/SaveSlot.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SaveSlot/SaveSlot.yy
+[14-07-2022 10:37:15] Par: "folders/Sprites/UI objects" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SaveSlot/SaveSlot.yy"
+[14-07-2022 10:37:15] Found Sprite: SaveSlot
+[14-07-2022 10:37:15] Checking layers
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SaveSlot/layers
+[14-07-2022 10:37:15] Checking 89b2ce8e-0569-48ba-9f40-3e06112621ce.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SaveSlot/layers
+[14-07-2022 10:37:15] Checking 89b2ce8e-0569-48ba-9f40-3e06112621ce
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SaveSlot/layers/89b2ce8e-0569-48ba-9f40-3e06112621ce
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SaveSlot/layers/89b2ce8e-0569-48ba-9f40-3e06112621ce
+[14-07-2022 10:37:15] Checking 7f709965-08fa-4648-980e-e53a786f1f86.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SaveSlotSelected
+[14-07-2022 10:37:15] Checking SaveSlotSelected.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SaveSlotSelected/SaveSlotSelected.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SaveSlotSelected/SaveSlotSelected.yy
+[14-07-2022 10:37:15] Par: "folders/Sprites/UI objects" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SaveSlotSelected/SaveSlotSelected.yy"
+[14-07-2022 10:37:15] Found Sprite: SaveSlotSelected
+[14-07-2022 10:37:15] Checking layers
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SaveSlotSelected/layers
+[14-07-2022 10:37:15] Checking bfce1769-d2af-4369-b445-d642929722b7.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SaveSlotSelected/layers
+[14-07-2022 10:37:15] Checking bfce1769-d2af-4369-b445-d642929722b7
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SaveSlotSelected/layers/bfce1769-d2af-4369-b445-d642929722b7
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SaveSlotSelected/layers/bfce1769-d2af-4369-b445-d642929722b7
+[14-07-2022 10:37:15] Checking 8969cd12-c3a1-49f7-b3f6-54690b7996c8.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SettingsBackground
+[14-07-2022 10:37:15] Checking SettingsBackground.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SettingsBackground/SettingsBackground.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SettingsBackground/SettingsBackground.yy
+[14-07-2022 10:37:15] Par: "folders/Sprites/UI objects" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SettingsBackground/SettingsBackground.yy"
+[14-07-2022 10:37:15] Found Sprite: SettingsBackground
+[14-07-2022 10:37:15] Checking layers
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SettingsBackground/layers
+[14-07-2022 10:37:15] Checking ebcc1a32-9e97-442a-aa11-26ee1ff98d32.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SettingsBackground/layers
+[14-07-2022 10:37:15] Checking ebcc1a32-9e97-442a-aa11-26ee1ff98d32
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SettingsBackground/layers/ebcc1a32-9e97-442a-aa11-26ee1ff98d32
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SettingsBackground/layers/ebcc1a32-9e97-442a-aa11-26ee1ff98d32
+[14-07-2022 10:37:15] Checking d79841d6-3b87-465d-ba29-47388b454718.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SmallBackground
+[14-07-2022 10:37:15] Checking SmallBackground.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SmallBackground/SmallBackground.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SmallBackground/SmallBackground.yy
+[14-07-2022 10:37:15] Par: "folders/Sprites/UI objects" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SmallBackground/SmallBackground.yy"
+[14-07-2022 10:37:15] Found Sprite: SmallBackground
+[14-07-2022 10:37:15] Checking layers
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SmallBackground/layers
+[14-07-2022 10:37:15] Checking edf8e52f-1f99-4d95-bf4d-82d3a27b4e36.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SmallBackground/layers
+[14-07-2022 10:37:15] Checking edf8e52f-1f99-4d95-bf4d-82d3a27b4e36
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SmallBackground/layers/edf8e52f-1f99-4d95-bf4d-82d3a27b4e36
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SmallBackground/layers/edf8e52f-1f99-4d95-bf4d-82d3a27b4e36
+[14-07-2022 10:37:15] Checking fd207fac-4718-4aef-8dd0-88b8ce0a4179.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SmallBackground2
+[14-07-2022 10:37:15] Checking SmallBackground2.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SmallBackground2/SmallBackground2.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SmallBackground2/SmallBackground2.yy
+[14-07-2022 10:37:15] Par: "folders/Sprites/UI objects" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SmallBackground2/SmallBackground2.yy"
+[14-07-2022 10:37:15] Found Sprite: SmallBackground2
+[14-07-2022 10:37:15] Checking layers
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SmallBackground2/layers
+[14-07-2022 10:37:15] Checking 96956b7a-e449-4cf3-9c49-5cd146096920.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SmallBackground2/layers
+[14-07-2022 10:37:15] Checking 96956b7a-e449-4cf3-9c49-5cd146096920
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SmallBackground2/layers/96956b7a-e449-4cf3-9c49-5cd146096920
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/SmallBackground2/layers/96956b7a-e449-4cf3-9c49-5cd146096920
+[14-07-2022 10:37:15] Checking 5525c0d1-a410-48db-84ba-004569f983bd.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/tab_spr
+[14-07-2022 10:37:15] Checking tab_spr.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/tab_spr/tab_spr.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/tab_spr/tab_spr.yy
+[14-07-2022 10:37:15] Par: "folders/Sprites/UI objects" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/tab_spr/tab_spr.yy"
+[14-07-2022 10:37:15] Found Sprite: tab_spr
+[14-07-2022 10:37:15] Checking layers
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/tab_spr/layers
+[14-07-2022 10:37:15] Checking f4eff7b2-362d-4475-b650-a04e4e6a52da.png
+[14-07-2022 10:37:15] Checking 123df96f-b6c7-43e9-80f1-550a1f615c54.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/tab_spr/layers
+[14-07-2022 10:37:15] Checking f4eff7b2-362d-4475-b650-a04e4e6a52da
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/tab_spr/layers/f4eff7b2-362d-4475-b650-a04e4e6a52da
+[14-07-2022 10:37:15] Checking 123df96f-b6c7-43e9-80f1-550a1f615c54
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/tab_spr/layers/123df96f-b6c7-43e9-80f1-550a1f615c54
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/tab_spr/layers/123df96f-b6c7-43e9-80f1-550a1f615c54
+[14-07-2022 10:37:15] Checking 94a8817c-5718-4e53-a147-0a9ce2b04142.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/tab_spr/layers/f4eff7b2-362d-4475-b650-a04e4e6a52da
+[14-07-2022 10:37:15] Checking 94a8817c-5718-4e53-a147-0a9ce2b04142.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/TickBox
+[14-07-2022 10:37:15] Checking TickBox.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/TickBox/TickBox.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/TickBox/TickBox.yy
+[14-07-2022 10:37:15] Par: "folders/Sprites/UI objects" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/TickBox/TickBox.yy"
+[14-07-2022 10:37:15] Found Sprite: TickBox
+[14-07-2022 10:37:15] Checking layers
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/TickBox/layers
+[14-07-2022 10:37:15] Checking 1a1b33ca-fdef-456d-9b24-29617d61f161.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/TickBox/layers
+[14-07-2022 10:37:15] Checking 1a1b33ca-fdef-456d-9b24-29617d61f161
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/TickBox/layers/1a1b33ca-fdef-456d-9b24-29617d61f161
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/TickBox/layers/1a1b33ca-fdef-456d-9b24-29617d61f161
+[14-07-2022 10:37:15] Checking 9238b9ad-b5a3-44b0-977c-74c0663e3129.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/TickIcon
+[14-07-2022 10:37:15] Checking TickIcon.yy
+[14-07-2022 10:37:15] Parsing d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/TickIcon/TickIcon.yy
+[14-07-2022 10:37:15] Reading d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/TickIcon/TickIcon.yy
+[14-07-2022 10:37:15] Par: "folders/Sprites/UI objects" at dir: "d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/TickIcon/TickIcon.yy"
+[14-07-2022 10:37:15] Found Sprite: TickIcon
+[14-07-2022 10:37:15] Checking layers
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/TickIcon/layers
+[14-07-2022 10:37:15] Checking 96fd5661-aafb-4677-ad30-89eed40759dc.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/TickIcon/layers
+[14-07-2022 10:37:15] Checking 96fd5661-aafb-4677-ad30-89eed40759dc
+[14-07-2022 10:37:15] Directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/TickIcon/layers/96fd5661-aafb-4677-ad30-89eed40759dc
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/sprites/TickIcon/layers/96fd5661-aafb-4677-ad30-89eed40759dc
+[14-07-2022 10:37:15] Checking 6e383389-2c06-4e23-b3b8-88b641cee6f0.png
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/tilesets
+[14-07-2022 10:37:15] Current parent directory: d:/Users/Flint/Documents/GameMakerStudio2/mngr/timelines
+[14-07-2022 10:37:15] Moving files to trash...
+[14-07-2022 10:37:15] Files yeeted successfully!
+[14-07-2022 10:37:15] Generating YYP...
+[14-07-2022 10:37:15] mngr.yyp created successfully!
