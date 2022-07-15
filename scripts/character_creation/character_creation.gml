@@ -11,6 +11,7 @@ function member(_id) constructor{
 	assigned_to = noone;
 	level = 1;
 	xp = 0;
+	daily_cost = irandom_range(1,3)+(level-1)*irandom_range(2,5);
 	enthusiasm	= 1;
 	brilliance	= 1;
 	cunning		= 1;
@@ -21,6 +22,7 @@ function member(_id) constructor{
 		var new_spot = ds_list_size(roster.list);
 		roster.total_members++;
 		roster.avaliable ++;
+		wallet.daily_cost += daily_cost;
 		ds_list_add(roster.list,self);
 		if flag == "hired" {
 			ds_list_delete(hires_board.list,index);
@@ -41,7 +43,7 @@ function member(_id) constructor{
 	
 	static toString = function () {
 		var str = "";
-		str = "Name: "+ my_name + "\nStatus: " + status + "\nLevel: "+ string(level) +"\nBrilliance: " +string(brilliance) +"\nEnthusiasm: "+string(enthusiasm)+"\nCunning: "+string(cunning)+"\nWanderlust: "+string(wanderlust)+"\nExp to next level: "+string(100-xp);
+		str = "Name: "+ my_name + "\nStatus: " + status + "\nLevel: "+ string(level) +"\nBrilliance: " +string(brilliance) +"\nEnthusiasm: "+string(enthusiasm)+"\nCunning: "+string(cunning)+"\nWanderlust: "+string(wanderlust)+"\nDaily Cost: "+string(daily_cost)+" Gold"+"\nExp to next level: "+string(100-xp);
 		return str;
 		//"\nMember ID: " + string(mem_id) +
 	}

@@ -4,6 +4,8 @@ function quest() constructor{
 	count ++;
 	my_name = quest_name();
 	steps = irandom_range(2,5);
+	money_reward = steps*irandom_range(1,2);
+	xp_reward = steps*irandom_range(1,4);
 	progress = 0;
 	index = count;
 	assigned_to = noone;
@@ -39,9 +41,9 @@ function quest() constructor{
 	
 	toString = function () {
 		var str = "";
-		str = my_name + "\n"+string(progress)+"% complete.\n";
+		str = my_name +"\nRaised by: "+"Some Villager"+ "\nReward: "+string(money_reward)+" gold\n";
 		if assigned_to != noone
-			str += string(assigned_to.my_name)+" working on this job.";
+			str += string(assigned_to.my_name)+" working on this job." +string(progress)+"% complete.\n";
 		return str;
 	}
 	

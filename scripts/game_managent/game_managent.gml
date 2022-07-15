@@ -5,4 +5,5 @@ function make_db(){
 	instance_create_layer(20,20,"Instances",board);
 	instance_create_layer(20,20,"Instances",roster);
 	instance_create_layer(20,20,"Instances",supply);
+	instance_create_layer(20,20,"Instances",wallet);
 }

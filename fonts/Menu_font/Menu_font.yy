@@ -3,6 +3,7 @@
   "glyphOperations": 0,
   "interpreter": 0,
   "pointRounding": 0,
+  "applyKerning": 0,
   "fontName": "Father's Entreaty - Personal Us",
   "styleName": "Regular",
   "size": 22.0,
@@ -20,6 +21,7 @@
     "path": "texturegroups/Default",
   },
   "ascenderOffset": 0,
+  "ascender": 0,
   "glyphs": {
     "32": {"x":2,"y":2,"w":8,"h":41,"character":32,"shift":8,"offset":0,},
     "33": {"x":71,"y":131,"w":4,"h":41,"character":33,"shift":4,"offset":0,},
