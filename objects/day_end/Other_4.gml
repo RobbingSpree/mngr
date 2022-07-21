@@ -3,7 +3,7 @@ last = ds_list_size(board.active)+1;
 total_earned = 0;
 
 if room == day_end_room {	
-	if last > 0 { //if running any quests at all
+	if last > 1 { //if running any quests at all
 		//run progress on all active quests
 		for (var i=0; i<last; i++) {
 			var temp = ds_list_find_value(board.active,i);
@@ -23,7 +23,7 @@ if room == day_end_room {
 				if temp.assigned_to.xp > 100 {
 					temp.assigned_to.level++
 					temp.assigned_to.xp -= 100;
-					report[i] += " and leveked up to " + string(temp.assigned_to.level)
+					report[i] += " and leveled up to " + string(temp.assigned_to.level)
 				}
 			}
 		}
