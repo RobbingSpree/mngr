@@ -18,6 +18,11 @@ if index == 1 {
 	target_list = roster.list;
 	str = "Roster";
 }
+
+if index == 2 {
+	target_list = wallet.history;
+	str = "Funds";
+}
 	
 image_speed=0;
 image_index=active;
